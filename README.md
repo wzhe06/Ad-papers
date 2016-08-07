@@ -1,2 +1,2 @@
 # Ad-papers
-Papers on Computational Advertising
+Papers and study materials on computational advertising
