@@ -5,3 +5,22 @@
 * email: wzhe06@163.com
 * 知乎私信: [王喆的知乎](https://www.zhihu.com/people/wang-zhe-58)
 * 主页留言: [王喆的主页](http://wangzhe.website/about/)
+
+## 目录
+### Allocation
+广告流量的分配问题
+### Bidding Strategy
+计算广告中广告定价，RTB过程中广告出价策略的相关问题
+### Budget Control
+### CTR Prediction
+### Computational Advertising Architect
+### Computer Vision
+### Explore and Exploit
+### Factorization Machines
+### Google Three Papers
+### Machine Learning Tutorial
+### Optimization Method
+### Recommendation
+### Topic Model
+### Transfer Learning
+### Tree Model
