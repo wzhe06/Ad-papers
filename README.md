@@ -11,11 +11,13 @@
 广告流量的分配问题
 * [Ad Serving Using a Compact Allocation Plan](https://github.com/wzhe06/Ad-papers/blob/master/Allocation/Ad%20Serving%20Using%20a%20Compact%20Allocation%20Plan.pdf)雅虎的一篇比较经典的流量分配的文章，文中的HWM和DUAL算法都比较实用
 * [An Efficient Algorithm for Allocation of Guaranteed Display Advertising](https://github.com/wzhe06/Ad-papers/blob/master/Allocation/An%20Efficient%20Algorithm%20for%20Allocation%20of%20Guaranteed%20Display%20Advertising.pdf)
+
 ### Bidding Strategy
 计算广告中广告定价，RTB过程中广告出价策略的相关问题
 * [Combining Powers of Two Predictors in Optimizing Real-Time Bidding Strategy under Constrained Budget](https://github.com/wzhe06/Ad-papers/blob/master/Bidding%20Strategy/Combining%20Powers%20of%20Two%20Predictors%20in%20Optimizing%20Real-Time%20Bidding%20Strategy%20under%20Constrained%20Budget.pdf)
 * [Real-Time Bidding Algorithms for Performance-Based Display Ad Allocation](https://github.com/wzhe06/Ad-papers/blob/master/Bidding%20Strategy/Real-Time%20Bidding%20Algorithms%20for%20Performance-Based%20Display%20Ad%20Allocation.pdf)
 * [Research Frontier of Real-Time Bidding based Display Advertising](https://github.com/wzhe06/Ad-papers/blob/master/Bidding%20Strategy/Research%20Frontier%20of%20Real-Time%20Bidding%20based%20Display%20Advertising.pdf)
+
 ### Budget Control
 广告系统中Pacing，预算控制，以及怎么把预算控制与其他模块相结合的问题
 * [Budget Pacing for Targeted Online Advertisements at LinkedIn](https://github.com/wzhe06/Ad-papers/blob/master/Budget%20Control/Budget%20Pacing%20for%20Targeted%20Online%20Advertisements%20at%20LinkedIn.pdf)
@@ -23,6 +25,7 @@
 * [PID控制经典培训教程](https://github.com/wzhe06/Ad-papers/blob/master/Budget%20Control/PID%E6%8E%A7%E5%88%B6%E7%BB%8F%E5%85%B8%E5%9F%B9%E8%AE%AD%E6%95%99%E7%A8%8B.pdf)
 * [Real Time Bid Optimization with Smooth Budget Delivery in Online Advertising](https://github.com/wzhe06/Ad-papers/blob/master/Budget%20Control/Real%20Time%20Bid%20Optimization%20with%20Smooth%20Budget%20Delivery%20in%20Online%20Advertising.pdf)
 * [Smart Pacing for Effective Online Ad Campaign Optimization](https://github.com/wzhe06/Ad-papers/blob/master/Budget%20Control/Smart%20Pacing%20for%20Effective%20Online%20Ad%20Campaign%20Optimization.pdf)
+
 ### CTR Prediction
 CTR预估模型相关问题
 
