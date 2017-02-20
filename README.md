@@ -9,10 +9,18 @@
 ## 目录
 ### Allocation
 广告流量的分配问题
+* [Ad Serving Using a Compact Allocation Plan](https://github.com/wzhe06/Ad-papers/blob/master/Allocation/Ad%20Serving%20Using%20a%20Compact%20Allocation%20Plan.pdf)雅虎的一篇比较经典的流量分配的文章，文中的HWM和DUAL算法都比较实用
+* [An Efficient Algorithm for Allocation of Guaranteed Display Advertising](https://github.com/wzhe06/Ad-papers/blob/master/Allocation/An%20Efficient%20Algorithm%20for%20Allocation%20of%20Guaranteed%20Display%20Advertising.pdf)
 ### Bidding Strategy
 计算广告中广告定价，RTB过程中广告出价策略的相关问题
+* [Combining Powers of Two Predictors in Optimizing Real-Time Bidding Strategy under Constrained Budget](https://github.com/wzhe06/Ad-papers/blob/master/Bidding%20Strategy/Combining%20Powers%20of%20Two%20Predictors%20in%20Optimizing%20Real-Time%20Bidding%20Strategy%20under%20Constrained%20Budget.pdf)
+* [Real-Time Bidding Algorithms for Performance-Based Display Ad Allocation](https://github.com/wzhe06/Ad-papers/blob/master/Bidding%20Strategy/Real-Time%20Bidding%20Algorithms%20for%20Performance-Based%20Display%20Ad%20Allocation.pdf)
+* [Research Frontier of Real-Time Bidding based Display Advertising](https://github.com/wzhe06/Ad-papers/blob/master/Bidding%20Strategy/Research%20Frontier%20of%20Real-Time%20Bidding%20based%20Display%20Advertising.pdf)
 ### Budget Control
 广告系统中Pacing，预算控制，以及怎么把预算控制与其他模块相结合的问题
+* []()
+* []()
+* []()
 ### CTR Prediction
 CTR预估模型相关问题
 ### Computational Advertising Architect
