@@ -38,11 +38,10 @@ PID控制的经典教程
 
 ### CTR Prediction
 CTR预估模型相关问题
-* [Ad Click Prediction a View from the Trenches.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Ad%20Click%20Prediction%20a%20View%20from%20the%20Trenches.pdf)
-* [Adaptive Targeting for Online Advertisement.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Adaptive%20Targeting%20for%20Online%20Advertisement.pdf)
-* [Logistic Regression in Rare Events Data.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Logistic%20Regression%20in%20Rare%20Events%20Data.pdf)
-* [Practical Lessons from Predicting Clicks on Ads at Facebook.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Practical%20Lessons%20from%20Predicting%20Clicks%20on%20Ads%20at%20Facebook.pdf)
-* [The Problem of Modeling Rare Events in ML-based Logistic Regression.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/The%20Problem%20of%20Modeling%20Rare%20Events%20in%20ML-based%20Logistic%20Regression.pdf)
+* [Ad Click Prediction a View from the Trenches.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Ad%20Click%20Prediction%20a%20View%20from%20the%20Trenches.pdf)<br />Google大名鼎鼎的用FTRL解决CTR在线预估的工程文章，非常经典。
+* [Adaptive Targeting for Online Advertisement.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Adaptive%20Targeting%20for%20Online%20Advertisement.pdf)<br />一篇比较简单但是全面的CTR预估的文章，有一定实用性
+* [Logistic Regression in Rare Events Data.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Logistic%20Regression%20in%20Rare%20Events%20Data.pdf)<br />样本稀少情况下的LR模型训练，讲的比较细
+* [Practical Lessons from Predicting Clicks on Ads at Facebook.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Practical%20Lessons%20from%20Predicting%20Clicks%20on%20Ads%20at%20Facebook.pdf)<br />Facebook的一篇非常出名的文章，GBDT＋LR/FM解决CTR预估问题，工程性很强
 
 ### Computational Advertising Architect
 广告系统的架构问题
