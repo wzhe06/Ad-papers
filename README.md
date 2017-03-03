@@ -9,8 +9,10 @@
 ## 目录
 ### Allocation
 广告流量的分配问题
-* [Ad Serving Using a Compact Allocation Plan](https://github.com/wzhe06/Ad-papers/blob/master/Allocation/Ad%20Serving%20Using%20a%20Compact%20Allocation%20Plan.pdf)雅虎的一篇比较经典的流量分配的文章，文中的HWM和DUAL算法都比较实用
-* [An Efficient Algorithm for Allocation of Guaranteed Display Advertising](https://github.com/wzhe06/Ad-papers/blob/master/Allocation/An%20Efficient%20Algorithm%20for%20Allocation%20of%20Guaranteed%20Display%20Advertising.pdf)同样是雅虎的流量分配文章，跟上一篇文章同时发布，介绍SHALE流量分配算法
+* [Ad Serving Using a Compact Allocation Plan](https://github.com/wzhe06/Ad-papers/blob/master/Allocation/Ad%20Serving%20Using%20a%20Compact%20Allocation%20Plan.pdf)
+雅虎的一篇比较经典的流量分配的文章，文中的HWM和DUAL算法都比较实用
+* [An Efficient Algorithm for Allocation of Guaranteed Display Advertising](https://github.com/wzhe06/Ad-papers/blob/master/Allocation/An%20Efficient%20Algorithm%20for%20Allocation%20of%20Guaranteed%20Display%20Advertising.pdf)
+同样是雅虎的流量分配文章，跟上一篇文章同时发布，介绍SHALE流量分配算法
 ### Bidding Strategy
 计算广告中广告定价，RTB过程中广告出价策略的相关问题
 * [Combining Powers of Two Predictors in Optimizing Real-Time Bidding Strategy under Constrained Budget](https://github.com/wzhe06/Ad-papers/blob/master/Bidding%20Strategy/Combining%20Powers%20of%20Two%20Predictors%20in%20Optimizing%20Real-Time%20Bidding%20Strategy%20under%20Constrained%20Budget.pdf) 国立台湾大学的文章，介绍一种基于流量选择的计算广告竞价方法，有别于传统的CTR CPC的方法，我在实践中尝试过该方法，非常有效
