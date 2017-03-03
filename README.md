@@ -13,6 +13,7 @@
 雅虎的一篇比较经典的流量分配的文章，文中的HWM和DUAL算法都比较实用
 * [An Efficient Algorithm for Allocation of Guaranteed Display Advertising](https://github.com/wzhe06/Ad-papers/blob/master/Allocation/An%20Efficient%20Algorithm%20for%20Allocation%20of%20Guaranteed%20Display%20Advertising.pdf)<br />
 同样是雅虎的流量分配文章，跟上一篇文章同时发布，介绍SHALE流量分配算法
+
 ### Bidding Strategy
 计算广告中广告定价，RTB过程中广告出价策略的相关问题
 * [Combining Powers of Two Predictors in Optimizing Real-Time Bidding Strategy under Constrained Budget](https://github.com/wzhe06/Ad-papers/blob/master/Bidding%20Strategy/Combining%20Powers%20of%20Two%20Predictors%20in%20Optimizing%20Real-Time%20Bidding%20Strategy%20under%20Constrained%20Budget.pdf)<br />
@@ -24,11 +25,16 @@
 
 ### Budget Control
 广告系统中Pacing，预算控制，以及怎么把预算控制与其他模块相结合的问题
-* [Budget Pacing for Targeted Online Advertisements at LinkedIn](https://github.com/wzhe06/Ad-papers/blob/master/Budget%20Control/Budget%20Pacing%20for%20Targeted%20Online%20Advertisements%20at%20LinkedIn.pdf) linkedin的一篇非常有工程价值的解决pacing问题的文章，强烈建议计算广告系统采用此方法。
-* [PID控制原理与控制算法](https://github.com/wzhe06/Ad-papers/blob/master/Budget%20Control/PID%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86%E4%B8%8E%E6%8E%A7%E5%88%B6%E7%AE%97%E6%B3%95.doc) 对于采用PID控制解决pacing问题，该文章是PID控制原理比较清晰的介绍文章。
-* [PID控制经典培训教程](https://github.com/wzhe06/Ad-papers/blob/master/Budget%20Control/PID%E6%8E%A7%E5%88%B6%E7%BB%8F%E5%85%B8%E5%9F%B9%E8%AE%AD%E6%95%99%E7%A8%8B.pdf) PID控制的经典教程
-* [Real Time Bid Optimization with Smooth Budget Delivery in Online Advertising](https://github.com/wzhe06/Ad-papers/blob/master/Budget%20Control/Real%20Time%20Bid%20Optimization%20with%20Smooth%20Budget%20Delivery%20in%20Online%20Advertising.pdf)如何将Pcaing与效果优化结合在一起，这篇文章讲的很清楚
-* [Smart Pacing for Effective Online Ad Campaign Optimization](https://github.com/wzhe06/Ad-papers/blob/master/Budget%20Control/Smart%20Pacing%20for%20Effective%20Online%20Ad%20Campaign%20Optimization.pdf)跟上篇文章一样，都是雅虎同一组人写的，解决预算控制与效果结合的问题，可以跟上篇文章一起看了
+* [Budget Pacing for Targeted Online Advertisements at LinkedIn](https://github.com/wzhe06/Ad-papers/blob/master/Budget%20Control/Budget%20Pacing%20for%20Targeted%20Online%20Advertisements%20at%20LinkedIn.pdf)<br />
+linkedin的一篇非常有工程价值的解决pacing问题的文章，强烈建议计算广告系统采用此方法。
+* [PID控制原理与控制算法](https://github.com/wzhe06/Ad-papers/blob/master/Budget%20Control/PID%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86%E4%B8%8E%E6%8E%A7%E5%88%B6%E7%AE%97%E6%B3%95.doc) <br />
+对于采用PID控制解决pacing问题，该文章是PID控制原理比较清晰的介绍文章。
+* [PID控制经典培训教程](https://github.com/wzhe06/Ad-papers/blob/master/Budget%20Control/PID%E6%8E%A7%E5%88%B6%E7%BB%8F%E5%85%B8%E5%9F%B9%E8%AE%AD%E6%95%99%E7%A8%8B.pdf)<br />
+PID控制的经典教程
+* [Real Time Bid Optimization with Smooth Budget Delivery in Online Advertising](https://github.com/wzhe06/Ad-papers/blob/master/Budget%20Control/Real%20Time%20Bid%20Optimization%20with%20Smooth%20Budget%20Delivery%20in%20Online%20Advertising.pdf)<br />
+如何将Pcaing与效果优化结合在一起，这篇文章讲的很清楚
+* [Smart Pacing for Effective Online Ad Campaign Optimization](https://github.com/wzhe06/Ad-papers/blob/master/Budget%20Control/Smart%20Pacing%20for%20Effective%20Online%20Ad%20Campaign%20Optimization.pdf)<br />
+跟上篇文章一样，都是雅虎同一组人写的，解决预算控制与效果结合的问题，可以跟上篇文章一起看了
 
 ### CTR Prediction
 CTR预估模型相关问题
