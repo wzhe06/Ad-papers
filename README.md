@@ -10,14 +10,12 @@
 ### Allocation
 广告流量的分配问题
 * [Ad Serving Using a Compact Allocation Plan](https://github.com/wzhe06/Ad-papers/blob/master/Allocation/Ad%20Serving%20Using%20a%20Compact%20Allocation%20Plan.pdf)雅虎的一篇比较经典的流量分配的文章，文中的HWM和DUAL算法都比较实用
-* [An Efficient Algorithm for Allocation of Guaranteed Display Advertising](https://github.com/wzhe06/Ad-papers/blob/master/Allocation/An%20Efficient%20Algorithm%20for%20Allocation%20of%20Guaranteed%20Display%20Advertising.pdf)
-
+* [An Efficient Algorithm for Allocation of Guaranteed Display Advertising](https://github.com/wzhe06/Ad-papers/blob/master/Allocation/An%20Efficient%20Algorithm%20for%20Allocation%20of%20Guaranteed%20Display%20Advertising.pdf)同样是雅虎的流量分配文章，跟上一篇文章同时发布，介绍SHALE流量分配算法
 ### Bidding Strategy
 计算广告中广告定价，RTB过程中广告出价策略的相关问题
-* [Combining Powers of Two Predictors in Optimizing Real-Time Bidding Strategy under Constrained Budget](https://github.com/wzhe06/Ad-papers/blob/master/Bidding%20Strategy/Combining%20Powers%20of%20Two%20Predictors%20in%20Optimizing%20Real-Time%20Bidding%20Strategy%20under%20Constrained%20Budget.pdf)
-* [Real-Time Bidding Algorithms for Performance-Based Display Ad Allocation](https://github.com/wzhe06/Ad-papers/blob/master/Bidding%20Strategy/Real-Time%20Bidding%20Algorithms%20for%20Performance-Based%20Display%20Ad%20Allocation.pdf)
-* [Research Frontier of Real-Time Bidding based Display Advertising](https://github.com/wzhe06/Ad-papers/blob/master/Bidding%20Strategy/Research%20Frontier%20of%20Real-Time%20Bidding%20based%20Display%20Advertising.pdf)
-
+* [Combining Powers of Two Predictors in Optimizing Real-Time Bidding Strategy under Constrained Budget](https://github.com/wzhe06/Ad-papers/blob/master/Bidding%20Strategy/Combining%20Powers%20of%20Two%20Predictors%20in%20Optimizing%20Real-Time%20Bidding%20Strategy%20under%20Constrained%20Budget.pdf) 国立台湾大学的文章，介绍一种基于流量选择的计算广告竞价方法，有别于传统的CTR CPC的方法，我在实践中尝试过该方法，非常有效
+* [Real-Time Bidding Algorithms for Performance-Based Display Ad Allocation](https://github.com/wzhe06/Ad-papers/blob/master/Bidding%20Strategy/Real-Time%20Bidding%20Algorithms%20for%20Performance-Based%20Display%20Ad%20Allocation.pdf)微软的一篇基于PID反馈控制的与效果相关的竞价算法
+* [Research Frontier of Real-Time Bidding based Display Advertising](https://github.com/wzhe06/Ad-papers/blob/master/Bidding%20Strategy/Research%20Frontier%20of%20Real-Time%20Bidding%20based%20Display%20Advertising.pdf)张伟楠博士的一篇介绍竞价算法的ppt，可以非常清晰的了解该问题的主要方法
 ### Budget Control
 广告系统中Pacing，预算控制，以及怎么把预算控制与其他模块相结合的问题
 * [Budget Pacing for Targeted Online Advertisements at LinkedIn](https://github.com/wzhe06/Ad-papers/blob/master/Budget%20Control/Budget%20Pacing%20for%20Targeted%20Online%20Advertisements%20at%20LinkedIn.pdf)
