@@ -17,11 +17,11 @@
 
 ### Bidding Strategy
 计算广告中广告定价，RTB过程中广告出价策略的相关问题
-* [Combining Powers of Two Predictors in Optimizing Real-Time Bidding Strategy under Constrained Budget.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Bidding Strategy/Combining%20Powers%20of%20Two%20Predictors%20in%20Optimizing%20Real-Time%20Bidding%20Strategy%20under%20Constrained%20Budget.pdf) <br />
+* [Combining Powers of Two Predictors in Optimizing Real-Time Bidding Strategy under Constrained Budget.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Bidding Strategy/Combining%20Powers%20of%20Two%20Predictors%20in%20Optimizing%20Real-Time%20Bidding%20Strategy%20under%20Constrained%20Budget.pdf)<br />
 国立台湾大学的文章，介绍一种基于流量选择的计算广告竞价方法，有别于传统的CTR CPC的方法，我在实践中尝试过该方法，非常有效
-* [Real-Time Bidding Algorithms for Performance-Based Display Ad Allocation.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Bidding Strategy/Real-Time%20Bidding%20Algorithms%20for%20Performance-Based%20Display%20Ad%20Allocation.pdf) <br />
+* [Real-Time Bidding Algorithms for Performance-Based Display Ad Allocation.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Bidding Strategy/Real-Time%20Bidding%20Algorithms%20for%20Performance-Based%20Display%20Ad%20Allocation.pdf)<br />
 微软的一篇基于PID反馈控制的与效果相关的竞价算法
-* [Research Frontier of Real-Time Bidding based Display Advertising.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Bidding Strategy/Research%20Frontier%20of%20Real-Time%20Bidding%20based%20Display%20Advertising.pdf) <br />
+* [Research Frontier of Real-Time Bidding based Display Advertising.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Bidding Strategy/Research%20Frontier%20of%20Real-Time%20Bidding%20based%20Display%20Advertising.pdf)<br />
 张伟楠博士的一篇介绍竞价算法的ppt，可以非常清晰的了解该问题的主要方法
 
 ### Budget Control
