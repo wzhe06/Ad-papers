@@ -60,7 +60,7 @@ for one_dir in all_dir:
         all_sub_files = os.listdir(one_dir)
         for one_file in all_sub_files:
             if not os.path.isdir(one_file) and not one_file.startswith('.'):
-                out_file.write("* [" + one_file + "]("+github_root + one_dir + "/"
+                out_file.write("* [" + one_file + "]("+github_root + urllib.quote(one_dir.strip())+"/"
                                + urllib.quote(one_file.strip())+") <br />\n")
                 print one_file.strip()
                 if one_file.strip() in paper_map:
