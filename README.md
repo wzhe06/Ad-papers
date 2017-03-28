@@ -7,12 +7,14 @@
 * 主页留言: [王喆的主页](http://wangzhe.website/about/)
 
 ## 目录
+
 ### Allocation
 广告流量的分配问题
 * [Ad Serving Using a Compact Allocation Plan.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Allocation/Ad%20Serving%20Using%20a%20Compact%20Allocation%20Plan.pdf) <br />
 雅虎的一篇比较经典的流量分配的文章，文中的HWM和DUAL算法都比较实用
 * [An Efficient Algorithm for Allocation of Guaranteed Display Advertising.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Allocation/An%20Efficient%20Algorithm%20for%20Allocation%20of%20Guaranteed%20Display%20Advertising.pdf) <br />
 同样是雅虎的流量分配文章，跟上一篇文章同时发布，介绍SHALE流量分配算法
+
 ### Bidding Strategy
 计算广告中广告定价，RTB过程中广告出价策略的相关问题
 * [Combining Powers of Two Predictors in Optimizing Real-Time Bidding Strategy under Constrained Budget.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Bidding Strategy/Combining%20Powers%20of%20Two%20Predictors%20in%20Optimizing%20Real-Time%20Bidding%20Strategy%20under%20Constrained%20Budget.pdf) <br />
@@ -21,6 +23,7 @@
 微软的一篇基于PID反馈控制的与效果相关的竞价算法
 * [Research Frontier of Real-Time Bidding based Display Advertising.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Bidding Strategy/Research%20Frontier%20of%20Real-Time%20Bidding%20based%20Display%20Advertising.pdf) <br />
 张伟楠博士的一篇介绍竞价算法的ppt，可以非常清晰的了解该问题的主要方法
+
 ### Budget Control
 广告系统中Pacing，预算控制，以及怎么把预算控制与其他模块相结合的问题
 * [Budget Pacing for Targeted Online Advertisements at LinkedIn.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Budget Control/Budget%20Pacing%20for%20Targeted%20Online%20Advertisements%20at%20LinkedIn.pdf) <br />
@@ -33,6 +36,7 @@ PID控制的经典教程
 如何将Pcaing与效果优化结合在一起，这篇文章讲的很清楚
 * [Smart Pacing for Effective Online Ad Campaign Optimization.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Budget Control/Smart%20Pacing%20for%20Effective%20Online%20Ad%20Campaign%20Optimization.pdf) <br />
 跟上篇文章一样，都是雅虎同一组人写的，解决预算控制与效果结合的问题，可以跟上篇文章一起看了
+
 ### Computational Advertising Architect
 广告系统的架构问题
 * [Display Advertising with Real-Time Bidding (RTB) and Behavioural Targeting.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Computational Advertising Architect/Display%20Advertising%20with%20Real-Time%20Bidding%20%28RTB%29%20and%20Behavioural%20Targeting.pdf) <br />
@@ -41,6 +45,7 @@ PID控制的经典教程
 阿里妈妈的一篇广告排序问题的ppt，模型、训练、评估都有涉及，很有工程价值
 * [美团机器学习 吃喝玩乐中的算法问题.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Computational Advertising Architect/%E7%BE%8E%E5%9B%A2%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%20%E5%90%83%E5%96%9D%E7%8E%A9%E4%B9%90%E4%B8%AD%E7%9A%84%E7%AE%97%E6%B3%95%E9%97%AE%E9%A2%98.pdf) <br />
 美团王栋博士的一篇关于美团机器学习相关问题的介绍，介绍的比较全但比较粗浅，可以借此了解美团的一些机器学习问题
+
 ### CTR Prediction
 CTR预估模型相关问题
 * [Ad Click Prediction a View from the Trenches.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR Prediction/Ad%20Click%20Prediction%20a%20View%20from%20the%20Trenches.pdf) <br />
@@ -51,6 +56,7 @@ Google大名鼎鼎的用FTRL解决CTR在线预估的工程文章，非常经典�
 样本稀少情况下的LR模型训练，讲的比较细
 * [Practical Lessons from Predicting Clicks on Ads at Facebook.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR Prediction/Practical%20Lessons%20from%20Predicting%20Clicks%20on%20Ads%20at%20Facebook.pdf) <br />
 Facebook的一篇非常出名的文章，GBDT＋LR/FM解决CTR预估问题，工程性很强
+
 ### Explore and Exploit
 探索和利用问题，计算广告中非常经典的问题， 也是容易被大家忽视的问题，其实所有的广告系统都面临如何解决新广告主冷启动的问题，以及在效果不好的情况下如何探索新的优质流量的问题，希望该目录下的几篇文章能搞帮助到你。
 * [A Contextual-Bandit Approach to Personalized News Article Recommendation(LinUCB).pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore and Exploit/A%20Contextual-Bandit%20Approach%20to%20Personalized%20News%20Article%20Recommendation%28LinUCB%29.pdf) <br />
@@ -62,6 +68,7 @@ Facebook的一篇非常出名的文章，GBDT＋LR/FM解决CTR预估问题，工
 * [基于UCT的围棋引擎的研究与实现.doc](https://github.com/wzhe06/Ad-papers/blob/master/Explore and Exploit/%E5%9F%BA%E4%BA%8EUCT%E7%9A%84%E5%9B%B4%E6%A3%8B%E5%BC%95%E6%93%8E%E7%9A%84%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%AE%9E%E7%8E%B0.doc) <br />
 * [对抗搜索、多臂老虎机问题、UCB算法.ppt](https://github.com/wzhe06/Ad-papers/blob/master/Explore and Exploit/%E5%AF%B9%E6%8A%97%E6%90%9C%E7%B4%A2%E3%80%81%E5%A4%9A%E8%87%82%E8%80%81%E8%99%8E%E6%9C%BA%E9%97%AE%E9%A2%98%E3%80%81UCB%E7%AE%97%E6%B3%95.ppt) <br />
 
+
 ### Factorization Machines
 FM因子分解机模型的相关paper，在计算广告领域非常实用的模型
 * [Factorization Machines Rendle2010.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Factorization Machines/Factorization%20Machines%20Rendle2010.pdf) <br />
@@ -71,16 +78,19 @@ FM因子分解机模型的相关paper，在计算广告领域非常实用的模�
 * [libfm-1.42.manual.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Factorization Machines/libfm-1.42.manual.pdf) <br />
 
 * [Scaling Factorization Machines to Relational Data.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Factorization Machines/Scaling%20Factorization%20Machines%20to%20Relational%20Data.pdf) <br />
+
 ### Google Three Papers
 Google三大篇，HDFS，MapReduce，BigTable，奠定大数据基础架构的三篇文章，应该读一读
 * [Bigtable A Distributed Storage System for Structured Data.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Google Three Papers/Bigtable%20A%20Distributed%20Storage%20System%20for%20Structured%20Data.pdf) <br />
 * [MapReduce Simplified Data Processing on Large Clusters.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Google Three Papers/MapReduce%20Simplified%20Data%20Processing%20on%20Large%20Clusters.pdf) <br />
 * [The Google File System.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Google Three Papers/The%20Google%20File%20System.pdf) <br />
 
+
 ### Guaranteed Contracts Ads
 * [Pricing Guaranteed Contracts in Online Display Advertising.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Guaranteed Contracts Ads/Pricing%20Guaranteed%20Contracts%20in%20Online%20Display%20Advertising.pdf) <br />
 * [Pricing Guidance in Ad Sale Negotiations The PrintAds Example.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Guaranteed Contracts Ads/Pricing%20Guidance%20in%20Ad%20Sale%20Negotiations%20The%20PrintAds%20Example.pdf) <br />
 * [Risk-Aware Revenue Maximization in Display Advertising.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Guaranteed Contracts Ads/Risk-Aware%20Revenue%20Maximization%20in%20Display%20Advertising.pdf) <br />
+
 ### Machine Learning Tutorial
 机器学习方面一些非常实用的学习资料
 * [Deep Learning Tutorial.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Machine Learning Tutorial/Deep%20Learning%20Tutorial.pdf) <br />
@@ -91,6 +101,7 @@ Google三大篇，HDFS，MapReduce，BigTable，奠定大数据基础架构的�
 * [机器学习总图.jpg](https://github.com/wzhe06/Ad-papers/blob/master/Machine Learning Tutorial/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%80%BB%E5%9B%BE.jpg) <br />
 * [贝叶斯统计学(PPT).pdf](https://github.com/wzhe06/Ad-papers/blob/master/Machine Learning Tutorial/%E8%B4%9D%E5%8F%B6%E6%96%AF%E7%BB%9F%E8%AE%A1%E5%AD%A6%28PPT%29.pdf) <br />
 
+
 ### Optimization Method
 Online Optimization，Parallel SGD，FTRL等优化方法，很实用的一些文章
 * [A Survey on Algorithms of the Regularized Convex Optimization Problem.pptx](https://github.com/wzhe06/Ad-papers/blob/master/Optimization Method/A%20Survey%20on%20Algorithms%20of%20the%20Regularized%20Convex%20Optimization%20Problem.pptx) <br />
@@ -100,10 +111,12 @@ Online Optimization，Parallel SGD，FTRL等优化方法，很实用的一些文
 * [在线最优化求解(Online Optimization)-冯扬.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Optimization Method/%E5%9C%A8%E7%BA%BF%E6%9C%80%E4%BC%98%E5%8C%96%E6%B1%82%E8%A7%A3%28Online%20Optimization%29-%E5%86%AF%E6%89%AC.pdf) <br />
 * [非线性规划.doc](https://github.com/wzhe06/Ad-papers/blob/master/Optimization Method/%E9%9D%9E%E7%BA%BF%E6%80%A7%E8%A7%84%E5%88%92.doc) <br />
 
+
 ### Recommendation
 推荐系统相关文章，研究不多，欢迎补充
 * [基于BPR-MF算法的推荐系统设计.docx](https://github.com/wzhe06/Ad-papers/blob/master/Recommendation/%E5%9F%BA%E4%BA%8EBPR-MF%E7%AE%97%E6%B3%95%E7%9A%84%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1.docx) <br />
 * [微博推荐策略平台Eros.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Recommendation/%E5%BE%AE%E5%8D%9A%E6%8E%A8%E8%8D%90%E7%AD%96%E7%95%A5%E5%B9%B3%E5%8F%B0Eros.pdf) <br />
+
 
 ### Topic Model
 话题模型相关文章，PLSA，LDA，进行广告Context特征提取，创意优化肯定会用到Topic Model
@@ -113,10 +126,12 @@ Online Optimization，Parallel SGD，FTRL等优化方法，很实用的一些文
 * [概率语言模型及其变形系列.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Topic Model/%E6%A6%82%E7%8E%87%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%85%B6%E5%8F%98%E5%BD%A2%E7%B3%BB%E5%88%97.pdf) <br />
 * [理解共轭先验.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Topic Model/%E7%90%86%E8%A7%A3%E5%85%B1%E8%BD%AD%E5%85%88%E9%AA%8C.pdf) <br />
 
+
 ### Transfer Learning
 迁移学习相关文章，计算广告中经常遇到新广告冷启动的问题，利用迁移学习能较好解决该问题
 * [A Survey on Transfer Learning.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Transfer Learning/A%20Survey%20on%20Transfer%20Learning.pdf) <br />
 * [Scalable Hands-Free Transfer Learning for Online Advertising.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Transfer Learning/Scalable%20Hands-Free%20Transfer%20Learning%20for%20Online%20Advertising.pdf) <br />
+
 
 ### Tree Model
 树模型和基于树模型的boosting模型，树模型的效果在大部分问题上非常好，在CTR，CVR模型以及特征工程方面的应用非常广，值得深入研究

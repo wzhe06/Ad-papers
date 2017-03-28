@@ -53,7 +53,7 @@ github_root = "https://github.com/wzhe06/Ad-papers/blob/master/"
 all_dir = os.listdir("./")
 for one_dir in all_dir:
     if os.path.isdir(one_dir) and not one_dir.startswith('.'):
-        out_file.write("### " + one_dir+"\n")
+        out_file.write("\n### " + one_dir+"\n")
         print "one_dir", one_dir.strip()
         if one_dir.strip() in paper_class_map:
             out_file.write(paper_class_map[one_dir.strip()] + "\n")
