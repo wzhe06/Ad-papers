@@ -6,6 +6,8 @@
 * 知乎私信: [王喆的知乎](https://www.zhihu.com/people/wang-zhe-58)
 * 主页留言: [王喆的主页](http://wangzhe.website/about/)
 
+**会不断加入一些重要的计算广告相关论文和资料，并去掉一些过时的或者跟计算广告不太相关的论文**
+
 ## 目录
 
 ### Allocation
