@@ -62,9 +62,15 @@ Facebook的一篇非常出名的文章，GBDT＋LR/FM解决CTR预估问题，工
 * [A Contextual-Bandit Approach to Personalized News Article Recommendation(LinUCB).pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/A%20Contextual-Bandit%20Approach%20to%20Personalized%20News%20Article%20Recommendation%28LinUCB%29.pdf) <br />
 * [An Empirical Evaluation of Thompson Sampling.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/An%20Empirical%20Evaluation%20of%20Thompson%20Sampling.pdf) <br />
 * [Analysis of Thompson Sampling for the Multi-armed Bandit Problem.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/Analysis%20of%20Thompson%20Sampling%20for%20the%20Multi-armed%20Bandit%20Problem.pdf) <br />
+* [Bandit based Monte-Carlo Planning.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/Bandit%20based%20Monte-Carlo%20Planning.pdf) <br />
+* [Customer Acquisition via Display Advertising Using MultiArmed Bandit Experiments.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/Customer%20Acquisition%20via%20Display%20Advertising%20Using%20MultiArmed%20Bandit%20Experiments.pdf) <br />
+* [Exploitation and Exploration in a Performance based Contextual Advertising System.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/Exploitation%20and%20Exploration%20in%20a%20Performance%20based%20Contextual%20Advertising%20System.pdf) <br />
+* [Exploration exploitation in Go UCT for Monte-Carlo Go.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/Exploration%20exploitation%20in%20Go%20UCT%20for%20Monte-Carlo%20Go.pdf) <br />
 * [Finite-time Analysis of the Multiarmed Bandit Problem.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/Finite-time%20Analysis%20of%20the%20Multiarmed%20Bandit%20Problem.pdf) <br />
+* [Mastering the game of Go with deep neural networks and tree search.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/Mastering%20the%20game%20of%20Go%20with%20deep%20neural%20networks%20and%20tree%20search.pdf) <br />
 * [Thompson Sampling PPT.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/Thompson%20Sampling%20PPT.pdf) <br />
 * [UCT算法.doc](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/UCT%E7%AE%97%E6%B3%95.doc) <br />
+* [Web-Scale Bayesian Click-Through Rate Prediction for Sponsored Search Advertising in Mrcrosofts Bing Search Engine.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/Web-Scale%20Bayesian%20Click-Through%20Rate%20Prediction%20for%20Sponsored%20Search%20Advertising%20in%20Mrcrosofts%20Bing%20Search%20Engine.pdf) <br />
 * [基于UCT的围棋引擎的研究与实现.doc](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/%E5%9F%BA%E4%BA%8EUCT%E7%9A%84%E5%9B%B4%E6%A3%8B%E5%BC%95%E6%93%8E%E7%9A%84%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%AE%9E%E7%8E%B0.doc) <br />
 * [对抗搜索、多臂老虎机问题、UCB算法.ppt](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/%E5%AF%B9%E6%8A%97%E6%90%9C%E7%B4%A2%E3%80%81%E5%A4%9A%E8%87%82%E8%80%81%E8%99%8E%E6%9C%BA%E9%97%AE%E9%A2%98%E3%80%81UCB%E7%AE%97%E6%B3%95.ppt) <br />
 
@@ -87,8 +93,10 @@ Google三大篇，HDFS，MapReduce，BigTable，奠定大数据基础架构的�
 
 
 ### Guaranteed Contracts Ads
+* [A Dynamic Pricing Model for Unifying Programmatic Guarantee and Real-Time Bidding in Display Advertising.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Guaranteed%20Contracts%20Ads/A%20Dynamic%20Pricing%20Model%20for%20Unifying%20Programmatic%20Guarantee%20and%20Real-Time%20Bidding%20in%20Display%20Advertising.pdf) <br />
 * [Pricing Guaranteed Contracts in Online Display Advertising.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Guaranteed%20Contracts%20Ads/Pricing%20Guaranteed%20Contracts%20in%20Online%20Display%20Advertising.pdf) <br />
 * [Pricing Guidance in Ad Sale Negotiations The PrintAds Example.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Guaranteed%20Contracts%20Ads/Pricing%20Guidance%20in%20Ad%20Sale%20Negotiations%20The%20PrintAds%20Example.pdf) <br />
+* [Risk-Aware Dynamic Reserve Prices of Programmatic Guarantee in Display Advertising.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Guaranteed%20Contracts%20Ads/Risk-Aware%20Dynamic%20Reserve%20Prices%20of%20Programmatic%20Guarantee%20in%20Display%20Advertising.pdf) <br />
 * [Risk-Aware Revenue Maximization in Display Advertising.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Guaranteed%20Contracts%20Ads/Risk-Aware%20Revenue%20Maximization%20in%20Display%20Advertising.pdf) <br />
 
 
