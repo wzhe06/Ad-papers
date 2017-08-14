@@ -23,6 +23,7 @@
 国立台湾大学的文章，介绍一种基于流量选择的计算广告竞价方法，有别于传统的CTR CPC的方法，我在实践中尝试过该方法，非常有效
 * [Real-Time Bidding Algorithms for Performance-Based Display Ad Allocation.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Bidding%20Strategy/Real-Time%20Bidding%20Algorithms%20for%20Performance-Based%20Display%20Ad%20Allocation.pdf) <br />
 微软的一篇基于PID反馈控制的与效果相关的竞价算法
+* [Real-Time Bidding by Reinforcement Learning in Display Advertising.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Bidding%20Strategy/Real-Time%20Bidding%20by%20Reinforcement%20Learning%20in%20Display%20Advertising.pdf) <br />
 * [Research Frontier of Real-Time Bidding based Display Advertising.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Bidding%20Strategy/Research%20Frontier%20of%20Real-Time%20Bidding%20based%20Display%20Advertising.pdf) <br />
 张伟楠博士的一篇介绍竞价算法的ppt，可以非常清晰的了解该问题的主要方法
 
@@ -34,6 +35,7 @@ linkedin的一篇非常有工程价值的解决pacing问题的文章，强烈建
 对于采用PID控制解决pacing问题，该文章是PID控制原理比较清晰的介绍文章。
 * [PID控制经典培训教程.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Budget%20Control/PID%E6%8E%A7%E5%88%B6%E7%BB%8F%E5%85%B8%E5%9F%B9%E8%AE%AD%E6%95%99%E7%A8%8B.pdf) <br />
 PID控制的经典教程
+* [Predicting Traffic of Online Advertising in Real-time Bidding Systems from Perspective of Demand-Side Platforms.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Budget%20Control/Predicting%20Traffic%20of%20Online%20Advertising%20in%20Real-time%20Bidding%20Systems%20from%20Perspective%20of%20Demand-Side%20Platforms.pdf) <br />
 * [Real Time Bid Optimization with Smooth Budget Delivery in Online Advertising.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Budget%20Control/Real%20Time%20Bid%20Optimization%20with%20Smooth%20Budget%20Delivery%20in%20Online%20Advertising.pdf) <br />
 如何将Pcaing与效果优化结合在一起，这篇文章讲的很清楚
 * [Smart Pacing for Effective Online Ad Campaign Optimization.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Budget%20Control/Smart%20Pacing%20for%20Effective%20Online%20Ad%20Campaign%20Optimization.pdf) <br />
@@ -43,6 +45,8 @@ PID控制的经典教程
 广告系统的架构问题
 * [Display Advertising with Real-Time Bidding (RTB) and Behavioural Targeting.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/Display%20Advertising%20with%20Real-Time%20Bidding%20%28RTB%29%20and%20Behavioural%20Targeting.pdf) <br />
 张伟楠博士的RTB过程所有相关算法的书，全而精，非常棒
+* [Parameter Server for Distributed Machine Learning.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/Parameter%20Server%20for%20Distributed%20Machine%20Learning.pdf) <br />
+* [Scaling Distributed Machine Learning with the Parameter Server.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/Scaling%20Distributed%20Machine%20Learning%20with%20the%20Parameter%20Server.pdf) <br />
 * [大数据下的广告排序技术及实践.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%B8%8B%E7%9A%84%E5%B9%BF%E5%91%8A%E6%8E%92%E5%BA%8F%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%AE%9E%E8%B7%B5.pdf) <br />
 阿里妈妈的一篇广告排序问题的ppt，模型、训练、评估都有涉及，很有工程价值
 * [美团机器学习 吃喝玩乐中的算法问题.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/%E7%BE%8E%E5%9B%A2%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%20%E5%90%83%E5%96%9D%E7%8E%A9%E4%B9%90%E4%B8%AD%E7%9A%84%E7%AE%97%E6%B3%95%E9%97%AE%E9%A2%98.pdf) <br />
@@ -54,6 +58,7 @@ CTR预估模型相关问题
 Google大名鼎鼎的用FTRL解决CTR在线预估的工程文章，非常经典。
 * [Adaptive Targeting for Online Advertisement.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Adaptive%20Targeting%20for%20Online%20Advertisement.pdf) <br />
 一篇比较简单但是全面的CTR预估的文章，有一定实用性
+* [Learning Piece-wise Linear Models from Large Scale Data for Ad Click Prediction.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Learning%20Piece-wise%20Linear%20Models%20from%20Large%20Scale%20Data%20for%20Ad%20Click%20Prediction.pdf) <br />
 * [Logistic Regression in Rare Events Data.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Logistic%20Regression%20in%20Rare%20Events%20Data.pdf) <br />
 样本稀少情况下的LR模型训练，讲的比较细
 * [Practical Lessons from Predicting Clicks on Ads at Facebook.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Practical%20Lessons%20from%20Predicting%20Clicks%20on%20Ads%20at%20Facebook.pdf) <br />
@@ -62,17 +67,29 @@ Facebook的一篇非常出名的文章，GBDT＋LR/FM解决CTR预估问题，工
 ### Explore and Exploit
 探索和利用问题，计算广告中非常经典的问题， 也是容易被大家忽视的问题，其实所有的广告系统都面临如何解决新广告主冷启动的问题，以及在效果不好的情况下如何探索新的优质流量的问题，希望该目录下的几篇文章能搞帮助到你。
 * [A Contextual-Bandit Approach to Personalized News Article Recommendation(LinUCB).pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/A%20Contextual-Bandit%20Approach%20to%20Personalized%20News%20Article%20Recommendation%28LinUCB%29.pdf) <br />
+* [A Fast and Simple Algorithm for Contextual Bandits.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/A%20Fast%20and%20Simple%20Algorithm%20for%20Contextual%20Bandits.pdf) <br />
 * [An Empirical Evaluation of Thompson Sampling.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/An%20Empirical%20Evaluation%20of%20Thompson%20Sampling.pdf) <br />
 * [Analysis of Thompson Sampling for the Multi-armed Bandit Problem.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/Analysis%20of%20Thompson%20Sampling%20for%20the%20Multi-armed%20Bandit%20Problem.pdf) <br />
+* [Bandit Algorithms Continued- UCB1.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/Bandit%20Algorithms%20Continued-%20UCB1.pdf) <br />
 * [Bandit based Monte-Carlo Planning.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/Bandit%20based%20Monte-Carlo%20Planning.pdf) <br />
 * [Customer Acquisition via Display Advertising Using MultiArmed Bandit Experiments.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/Customer%20Acquisition%20via%20Display%20Advertising%20Using%20MultiArmed%20Bandit%20Experiments.pdf) <br />
+* [Dynamic Online Pricing with Incomplete Information Using Multi-Armed Bandit Experiments.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/Dynamic%20Online%20Pricing%20with%20Incomplete%20Information%20Using%20Multi-Armed%20Bandit%20Experiments.pdf) <br />
+* [EandE.pptx](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/EandE.pptx) <br />
 * [Exploitation and Exploration in a Performance based Contextual Advertising System.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/Exploitation%20and%20Exploration%20in%20a%20Performance%20based%20Contextual%20Advertising%20System.pdf) <br />
 * [Exploration exploitation in Go UCT for Monte-Carlo Go.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/Exploration%20exploitation%20in%20Go%20UCT%20for%20Monte-Carlo%20Go.pdf) <br />
 * [Finite-time Analysis of the Multiarmed Bandit Problem.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/Finite-time%20Analysis%20of%20the%20Multiarmed%20Bandit%20Problem.pdf) <br />
+* [Hierarchical Deep Reinforcement Learning- Integrating Temporal Abstraction and Intrinsic Motivation.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/Hierarchical%20Deep%20Reinforcement%20Learning-%20Integrating%20Temporal%20Abstraction%20and%20Intrinsic%20Motivation.pdf) <br />
+* [INCENTIVIZING EXPLORATION IN REINFORCEMENT LEARNING WITH DEEP PREDICTIVE MODELS.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/INCENTIVIZING%20EXPLORATION%20IN%20REINFORCEMENT%20LEARNING%20WITH%20DEEP%20PREDICTIVE%20MODELS.pdf) <br />
 * [Mastering the game of Go with deep neural networks and tree search.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/Mastering%20the%20game%20of%20Go%20with%20deep%20neural%20networks%20and%20tree%20search.pdf) <br />
+* [Multi-Armed Bandits Gittins Index and Its Calculation.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/Multi-Armed%20Bandits%20Gittins%20Index%20and%20Its%20Calculation.pdf) <br />
+* [On the Prior Sensitivity of Thompson Sampling.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/On%20the%20Prior%20Sensitivity%20of%20Thompson%20Sampling.pdf) <br />
+* [Provable Optimal Algorithms for Generalized Linear Contextual Bandits.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/Provable%20Optimal%20Algorithms%20for%20Generalized%20Linear%20Contextual%20Bandits.pdf) <br />
+* [Random Forest for the Contextual Bandit Problem.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/Random%20Forest%20for%20the%20Contextual%20Bandit%20Problem.pdf) <br />
 * [Thompson Sampling PPT.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/Thompson%20Sampling%20PPT.pdf) <br />
 * [UCT算法.doc](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/UCT%E7%AE%97%E6%B3%95.doc) <br />
-* [Web-Scale Bayesian Click-Through Rate Prediction for Sponsored Search Advertising in Mrcrosofts Bing Search Engine.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/Web-Scale%20Bayesian%20Click-Through%20Rate%20Prediction%20for%20Sponsored%20Search%20Advertising%20in%20Mrcrosofts%20Bing%20Search%20Engine.pdf) <br />
+* [Unifying Count-Based Exploration and Intrinsic Motivation.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/Unifying%20Count-Based%20Exploration%20and%20Intrinsic%20Motivation.pdf) <br />
+* [Using Confidence Bounds for Exploitation-Exploration Trade-offs.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/Using%20Confidence%20Bounds%20for%20Exploitation-Exploration%20Trade-offs.pdf) <br />
+* [Variational Information Maximizing Exploration.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/Variational%20Information%20Maximizing%20Exploration.pdf) <br />
 * [基于UCT的围棋引擎的研究与实现.doc](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/%E5%9F%BA%E4%BA%8EUCT%E7%9A%84%E5%9B%B4%E6%A3%8B%E5%BC%95%E6%93%8E%E7%9A%84%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%AE%9E%E7%8E%B0.doc) <br />
 * [对抗搜索、多臂老虎机问题、UCB算法.ppt](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/%E5%AF%B9%E6%8A%97%E6%90%9C%E7%B4%A2%E3%80%81%E5%A4%9A%E8%87%82%E8%80%81%E8%99%8E%E6%9C%BA%E9%97%AE%E9%A2%98%E3%80%81UCB%E7%AE%97%E6%B3%95.ppt) <br />
 
