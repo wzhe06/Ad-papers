@@ -58,11 +58,15 @@ CTR预估模型相关问题
 Google大名鼎鼎的用FTRL解决CTR在线预估的工程文章，非常经典。
 * [Adaptive Targeting for Online Advertisement.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Adaptive%20Targeting%20for%20Online%20Advertisement.pdf) <br />
 一篇比较简单但是全面的CTR预估的文章，有一定实用性
+* [Deep Crossing- Web-Scale Modeling without Manually Crafted Combinatorial Features.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Deep%20Crossing-%20Web-Scale%20Modeling%20without%20Manually%20Crafted%20Combinatorial%20Features.pdf) <br />
+* [Deep Interest Network for Click-Through Rate Prediction.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Deep%20Interest%20Network%20for%20Click-Through%20Rate%20Prediction.pdf) <br />
+* [Deep Neural Networks for YouTube Recommendations.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Deep%20Neural%20Networks%20for%20YouTube%20Recommendations.pdf) <br />
 * [Learning Piece-wise Linear Models from Large Scale Data for Ad Click Prediction.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Learning%20Piece-wise%20Linear%20Models%20from%20Large%20Scale%20Data%20for%20Ad%20Click%20Prediction.pdf) <br />
 * [Logistic Regression in Rare Events Data.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Logistic%20Regression%20in%20Rare%20Events%20Data.pdf) <br />
 样本稀少情况下的LR模型训练，讲的比较细
 * [Practical Lessons from Predicting Clicks on Ads at Facebook.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Practical%20Lessons%20from%20Predicting%20Clicks%20on%20Ads%20at%20Facebook.pdf) <br />
 Facebook的一篇非常出名的文章，GBDT＋LR/FM解决CTR预估问题，工程性很强
+* [Wide & Deep Learning for Recommender Systems.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Wide%20%26%20Deep%20Learning%20for%20Recommender%20Systems.pdf) <br />
 
 ### Explore and Exploit
 探索和利用问题，计算广告中非常经典的问题， 也是容易被大家忽视的问题，其实所有的广告系统都面临如何解决新广告主冷启动的问题，以及在效果不好的情况下如何探索新的优质流量的问题，希望该目录下的几篇文章能搞帮助到你。
@@ -77,6 +81,7 @@ Facebook的一篇非常出名的文章，GBDT＋LR/FM解决CTR预估问题，工
 * [EandE.pptx](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/EandE.pptx) <br />
 * [Exploitation and Exploration in a Performance based Contextual Advertising System.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/Exploitation%20and%20Exploration%20in%20a%20Performance%20based%20Contextual%20Advertising%20System.pdf) <br />
 * [Exploration exploitation in Go UCT for Monte-Carlo Go.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/Exploration%20exploitation%20in%20Go%20UCT%20for%20Monte-Carlo%20Go.pdf) <br />
+* [Exploring compact reinforcement-learning representations with linear regression.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/Exploring%20compact%20reinforcement-learning%20representations%20with%20linear%20regression.pdf) <br />
 * [Finite-time Analysis of the Multiarmed Bandit Problem.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/Finite-time%20Analysis%20of%20the%20Multiarmed%20Bandit%20Problem.pdf) <br />
 * [Hierarchical Deep Reinforcement Learning- Integrating Temporal Abstraction and Intrinsic Motivation.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/Hierarchical%20Deep%20Reinforcement%20Learning-%20Integrating%20Temporal%20Abstraction%20and%20Intrinsic%20Motivation.pdf) <br />
 * [INCENTIVIZING EXPLORATION IN REINFORCEMENT LEARNING WITH DEEP PREDICTIVE MODELS.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Explore%20and%20Exploit/INCENTIVIZING%20EXPLORATION%20IN%20REINFORCEMENT%20LEARNING%20WITH%20DEEP%20PREDICTIVE%20MODELS.pdf) <br />
