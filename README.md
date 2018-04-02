@@ -67,12 +67,15 @@ Google大名鼎鼎的用FTRL解决CTR在线预估的工程文章，非常经典�
 * [Deep Crossing- Web-Scale Modeling without Manually Crafted Combinatorial Features.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Deep%20Crossing-%20Web-Scale%20Modeling%20without%20Manually%20Crafted%20Combinatorial%20Features.pdf) <br />
 * [Deep Interest Network for Click-Through Rate Prediction.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Deep%20Interest%20Network%20for%20Click-Through%20Rate%20Prediction.pdf) <br />
 * [Deep Neural Networks for YouTube Recommendations.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Deep%20Neural%20Networks%20for%20YouTube%20Recommendations.pdf) <br />
+* [DeepFM- A Factorization-Machine based Neural Network for CTR Prediction.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/DeepFM-%20A%20Factorization-Machine%20based%20Neural%20Network%20for%20CTR%20Prediction.pdf) <br />
+* [Learning Deep Structured Semantic Models for Web Search using Clickthrough Data.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Learning%20Deep%20Structured%20Semantic%20Models%20for%20Web%20Search%20using%20Clickthrough%20Data.pdf) <br />
 * [Learning Piece-wise Linear Models from Large Scale Data for Ad Click Prediction.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Learning%20Piece-wise%20Linear%20Models%20from%20Large%20Scale%20Data%20for%20Ad%20Click%20Prediction.pdf) <br />
 * [Logistic Regression in Rare Events Data.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Logistic%20Regression%20in%20Rare%20Events%20Data.pdf) <br />
 样本稀少情况下的LR模型训练，讲的比较细
 * [Practical Lessons from Predicting Clicks on Ads at Facebook.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Practical%20Lessons%20from%20Predicting%20Clicks%20on%20Ads%20at%20Facebook.pdf) <br />
 Facebook的一篇非常出名的文章，GBDT＋LR/FM解决CTR预估问题，工程性很强
 * [Wide & Deep Learning for Recommender Systems.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Wide%20%26%20Deep%20Learning%20for%20Recommender%20Systems.pdf) <br />
+
 
 ### Explore and Exploit
 探索和利用问题，计算广告中非常经典的问题， 也是容易被大家忽视的问题，其实所有的广告系统都面临如何解决新广告主冷启动的问题，以及在效果不好的情况下如何探索新的优质流量的问题，希望该目录下的几篇文章能搞帮助到你。
@@ -132,7 +135,9 @@ Google三大篇，HDFS，MapReduce，BigTable，奠定大数据基础架构的�
 
 ### Machine Learning Tutorial
 机器学习方面一些非常实用的学习资料
+* [An introduction to ROC analysis.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Machine%20Learning%20Tutorial/An%20introduction%20to%20ROC%20analysis.pdf) <br />
 * [Deep Learning Tutorial.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Machine%20Learning%20Tutorial/Deep%20Learning%20Tutorial.pdf) <br />
+* [Efficient Estimation of Word Representations in Vector Space.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Machine%20Learning%20Tutorial/Efficient%20Estimation%20of%20Word%20Representations%20in%20Vector%20Space.pdf) <br />
 * [Rules of Machine Learning- Best Practices for ML Engineering.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Machine%20Learning%20Tutorial/Rules%20of%20Machine%20Learning-%20Best%20Practices%20for%20ML%20Engineering.pdf) <br />
 * [关联规则基本算法及其应用.doc](https://github.com/wzhe06/Ad-papers/blob/master/Machine%20Learning%20Tutorial/%E5%85%B3%E8%81%94%E8%A7%84%E5%88%99%E5%9F%BA%E6%9C%AC%E7%AE%97%E6%B3%95%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8.doc) <br />
 * [各种回归的概念学习.doc](https://github.com/wzhe06/Ad-papers/blob/master/Machine%20Learning%20Tutorial/%E5%90%84%E7%A7%8D%E5%9B%9E%E5%BD%92%E7%9A%84%E6%A6%82%E5%BF%B5%E5%AD%A6%E4%B9%A0.doc) <br />
@@ -143,10 +148,13 @@ Google三大篇，HDFS，MapReduce，BigTable，奠定大数据基础架构的�
 
 ### Optimization Method
 Online Optimization，Parallel SGD，FTRL等优化方法，很实用的一些文章
+* [A Review of Bayesian Optimization.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Optimization%20Method/A%20Review%20of%20Bayesian%20Optimization.pdf) <br />
 * [A Survey on Algorithms of the Regularized Convex Optimization Problem.pptx](https://github.com/wzhe06/Ad-papers/blob/master/Optimization%20Method/A%20Survey%20on%20Algorithms%20of%20the%20Regularized%20Convex%20Optimization%20Problem.pptx) <br />
 * [Follow-the-Regularized-Leader and Mirror Descent- Equivalence Theorems and L1 Regularization.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Optimization%20Method/Follow-the-Regularized-Leader%20and%20Mirror%20Descent-%20Equivalence%20Theorems%20and%20L1%20Regularization.pdf) <br />
+* [Google Vizier A Service for Black-Box Optimization.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Optimization%20Method/Google%20Vizier%20A%20Service%20for%20Black-Box%20Optimization.pdf) <br />
 * [Hogwild A Lock-Free Approach to Parallelizing Stochastic Gradient Descent.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Optimization%20Method/Hogwild%20A%20Lock-Free%20Approach%20to%20Parallelizing%20Stochastic%20Gradient%20Descent.pdf) <br />
 * [Parallelized Stochastic Gradient Descent.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Optimization%20Method/Parallelized%20Stochastic%20Gradient%20Descent.pdf) <br />
+* [Taking the Human Out of the Loop- A Review of Bayesian Optimization.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Optimization%20Method/Taking%20the%20Human%20Out%20of%20the%20Loop-%20A%20Review%20of%20Bayesian%20Optimization.pdf) <br />
 * [在线最优化求解(Online Optimization)-冯扬.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Optimization%20Method/%E5%9C%A8%E7%BA%BF%E6%9C%80%E4%BC%98%E5%8C%96%E6%B1%82%E8%A7%A3%28Online%20Optimization%29-%E5%86%AF%E6%89%AC.pdf) <br />
 * [非线性规划.doc](https://github.com/wzhe06/Ad-papers/blob/master/Optimization%20Method/%E9%9D%9E%E7%BA%BF%E6%80%A7%E8%A7%84%E5%88%92.doc) <br />
 
@@ -160,6 +168,7 @@ Online Optimization，Parallel SGD，FTRL等优化方法，很实用的一些文
 ### Topic Model
 话题模型相关文章，PLSA，LDA，进行广告Context特征提取，创意优化肯定会用到Topic Model
 * [Dirichlet Distribution, Dirichlet Process and Dirichlet Process Mixture(PPT).pdf](https://github.com/wzhe06/Ad-papers/blob/master/Topic%20Model/Dirichlet%20Distribution%2C%20Dirichlet%20Process%20and%20Dirichlet%20Process%20Mixture%28PPT%29.pdf) <br />
+* [Distributed Representations of Words and Phrases and their Compositionality.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Topic%20Model/Distributed%20Representations%20of%20Words%20and%20Phrases%20and%20their%20Compositionality.pdf) <br />
 * [LDA数学八卦.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Topic%20Model/LDA%E6%95%B0%E5%AD%A6%E5%85%AB%E5%8D%A6.pdf) <br />
 * [Parameter estimation for text analysis.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Topic%20Model/Parameter%20estimation%20for%20text%20analysis.pdf) <br />
 * [概率语言模型及其变形系列.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Topic%20Model/%E6%A6%82%E7%8E%87%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%85%B6%E5%8F%98%E5%BD%A2%E7%B3%BB%E5%88%97.pdf) <br />
