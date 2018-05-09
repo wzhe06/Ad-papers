@@ -32,6 +32,8 @@
 * [Real-Time Bidding by Reinforcement Learning in Display Advertising.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Bidding%20Strategy/Real-Time%20Bidding%20by%20Reinforcement%20Learning%20in%20Display%20Advertising.pdf) <br />
 * [Research Frontier of Real-Time Bidding based Display Advertising.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Bidding%20Strategy/Research%20Frontier%20of%20Real-Time%20Bidding%20based%20Display%20Advertising.pdf) <br />
 张伟楠博士的一篇介绍竞价算法的ppt，可以非常清晰的了解该问题的主要方法
+* [Deep Reinforcement Learning for Sponsored Search Real-time Bidding.pdf]
+阿里妈妈搜索广告团队的论文，通过 Reinforcement Learning 探索实时出价问题<br />
 
 ### Budget Control
 广告系统中Pacing，预算控制，以及怎么把预算控制与其他模块相结合的问题
