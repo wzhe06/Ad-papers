@@ -77,6 +77,8 @@ Google大名鼎鼎的用FTRL解决CTR在线预估的工程文章，非常经典�
 * [Practical Lessons from Predicting Clicks on Ads at Facebook.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Practical%20Lessons%20from%20Predicting%20Clicks%20on%20Ads%20at%20Facebook.pdf) <br />
 Facebook的一篇非常出名的文章，GBDT＋LR/FM解决CTR预估问题，工程性很强
 * [Wide & Deep Learning for Recommender Systems.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Wide%20%26%20Deep%20Learning%20for%20Recommender%20Systems.pdf) <br />
+* [Entire Space Multi-Task Model: An Effective Approach for Estimating Post-Click Conversion Rate](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Entire%20Space%20Multi-Task%20Model:%20An%20Effective%20Approach%20for%20Estimating%20Post-Click%20Conversion%20Rate)<br />
+Sigir 2018的预估CVR的一篇短文，阿里妈妈发表。利用multi-task learning思想同时训练CTR和CTR\*CVR，CVR作为中间结果可以拿到。有效解决数据稀疏性和样本空间偏置的问题。
 
 
 ### Explore and Exploit
