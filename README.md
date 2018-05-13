@@ -33,6 +33,7 @@
 * [Research Frontier of Real-Time Bidding based Display Advertising.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Bidding%20Strategy/Research%20Frontier%20of%20Real-Time%20Bidding%20based%20Display%20Advertising.pdf) <br />
 张伟楠博士的一篇介绍竞价算法的ppt，可以非常清晰的了解该问题的主要方法
 * [Deep Reinforcement Learning for Sponsored Search Real-time Bidding.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Bidding%20Strategy/Deep%20Reinforcement%20Learning%20for%20Sponsored%20Search%20Real-time%20Bidding.pdf)
+
 阿里妈妈搜索广告团队的论文，通过 Reinforcement Learning 探索实时出价问题<br />
 
 ### Budget Control
