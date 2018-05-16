@@ -110,8 +110,7 @@ Facebook的一篇非常出名的文章，GBDT＋LR/FM解决CTR预估问题，工
 ### Factorization Machines
 FM因子分解机模型的相关paper，在计算广告领域非常实用的模型
 * [Factorization Machines Rendle2010.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Factorization%20Machines/Factorization%20Machines%20Rendle2010.pdf) <br />
-* [Field-aware Factorization Machines for CTR Prediction.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Factorization%20Machines/Field-aware%20Factorization%20Machines%20for%20CTR%20Prediction.pdf)
-<br/>
+* [Field-aware Factorization Machines for CTR Prediction.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Factorization%20Machines/Field-aware%20Factorization%20Machines%20for%20CTR%20Prediction.pdf) <br />
 * [Fast Context-aware Recommendations with Factorization Machines.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Factorization%20Machines/Fast%20Context-aware%20Recommendations%20with%20Factorization%20Machines.pdf) <br />
 * [fastFM- A Library for Factorization Machines.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Factorization%20Machines/fastFM-%20A%20Library%20for%20Factorization%20Machines.pdf) <br />
 * [FM PPT by CMU.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Factorization%20Machines/FM%20PPT%20by%20CMU.pdf) <br />
