@@ -57,6 +57,8 @@ PID控制的经典教程
 * [Scaling Distributed Machine Learning with the Parameter Server.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/Scaling%20Distributed%20Machine%20Learning%20with%20the%20Parameter%20Server.pdf) <br />
 * [Efficient Query Evaluation using a Two-Level Retrieval Process](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/Efficient%20Query%20Evaluation%20using%20a%20Two-Level%20Retrieval%20Process.pdf) <br />
 搜索广告中经典的搜索算法 Wand(Weak And)
+* [Overlapping Experiment Infrastructure:More, Better, Faster Experimentation](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/Overlapping%20Experiment%20Infrastructure_More%2C%20Better%2C%20Faster%20Experimentation.pdf)
+Google 一篇关于 A/B 测试框架的论文，涉及到如何切分流量以同时进行多个 A/B 测试，工程性很强
 * [大数据下的广告排序技术及实践.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%B8%8B%E7%9A%84%E5%B9%BF%E5%91%8A%E6%8E%92%E5%BA%8F%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%AE%9E%E8%B7%B5.pdf) <br />
 阿里妈妈的一篇广告排序问题的ppt，模型、训练、评估都有涉及，很有工程价值
 * [美团机器学习 吃喝玩乐中的算法问题.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/%E7%BE%8E%E5%9B%A2%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%20%E5%90%83%E5%96%9D%E7%8E%A9%E4%B9%90%E4%B8%AD%E7%9A%84%E7%AE%97%E6%B3%95%E9%97%AE%E9%A2%98.pdf) <br />
