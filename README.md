@@ -173,6 +173,8 @@ PID控制的经典教程
 张伟楠博士的RTB过程所有相关算法的书，全而精，非常棒
 * [Efficient Query Evaluation using a Two-Level Retrieval Process.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/Efficient%20Query%20Evaluation%20using%20a%20Two-Level%20Retrieval%20Process.pdf) <br />
 搜索广告中经典的搜索算法 Wand(Weak AND)
+* [Overlapping Experiment Infrastructure:More, Better, Faster Experimentation.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/Overlapping%20Experiment%20Infrastructure%20More%2C%20Better%2C%20Faster%20Experimentation.pdf) <br />
+Google 一篇关于 A/B 测试框架的论文，涉及到如何切分流量以同时进行多个 A/B 测试，工程性很强
 * [Scaling Distributed Machine Learning with the Parameter Server.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/Scaling%20Distributed%20Machine%20Learning%20with%20the%20Parameter%20Server.pdf) <br />
 
 
