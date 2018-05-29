@@ -45,6 +45,12 @@ CTR预估模型相关问题
 * [Learning Piece-wise Linear Models from Large Scale Data for Ad Click Prediction.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Learning%20Piece-wise%20Linear%20Models%20from%20Large%20Scale%20Data%20for%20Ad%20Click%20Prediction.pdf) <br />
 * [Entire Space Multi-Task Model_ An Effective Approach for Estimating Post-Click Conversion Rate.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Entire%20Space%20Multi-Task%20Model_%20An%20Effective%20Approach%20for%20Estimating%20Post-Click%20Conversion%20Rate.pdf) <br />
 * [Deep Interest Network for Click-Through Rate Prediction.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Deep%20Interest%20Network%20for%20Click-Through%20Rate%20Prediction.pdf) <br />
+*  [Wide & Deep Learning for Recommender Systems](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Wide%20%26%20Deep%20Learning%20for%20Recommender%20Systems.pdf) <br />
+Google 的 Wide & Deep 模型，论文将模型用于推荐系统中，但也可用于 CTR 预估中
+* [Deep Learning over Multi-field Categorical Data](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Deep%20Learning%20over%20Multi-field%20Categorical%20Data.pdf) <br />
+张伟楠博士的论文，提出了 FNN 模型，类似 Wide & Deep 的 Deep 部分，亮点在于用 FM 预训练的隐向量初始化 embedding 层
+* [Product-based Neural Networks for User Response Prediction](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Product-based%20Neural%20Networks%20for%20User%20Response%20Prediction.pdf) <br />
+张伟楠博士的另外一篇论文，提出了 PNN 模型，在 FNN 基础上对特征的隐向量进行了 inner product 作为新特征
 * [Ad Click Prediction a View from the Trenches.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Ad%20Click%20Prediction%20a%20View%20from%20the%20Trenches.pdf) <br />
 Google大名鼎鼎的用FTRL解决CTR在线预估的工程文章，非常经典。
 * [DeepFM- A Factorization-Machine based Neural Network for CTR Prediction.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/DeepFM-%20A%20Factorization-Machine%20based%20Neural%20Network%20for%20CTR%20Prediction.pdf) <br />
@@ -173,6 +179,8 @@ PID控制的经典教程
 张伟楠博士的RTB过程所有相关算法的书，全而精，非常棒
 * [Efficient Query Evaluation using a Two-Level Retrieval Process.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/Efficient%20Query%20Evaluation%20using%20a%20Two-Level%20Retrieval%20Process.pdf) <br />
 搜索广告中经典的搜索算法 Wand(Weak AND)
+* [Overlapping Experiment Infrastructure:More, Better, Faster Experimentation.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/Overlapping%20Experiment%20Infrastructure%20More%2C%20Better%2C%20Faster%20Experimentation.pdf) <br />
+Google 一篇关于 A/B 测试框架的论文，涉及到如何切分流量以同时进行多个 A/B 测试，工程性很强
 * [Scaling Distributed Machine Learning with the Parameter Server.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/Scaling%20Distributed%20Machine%20Learning%20with%20the%20Parameter%20Server.pdf) <br />
 
 
