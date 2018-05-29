@@ -16,16 +16,6 @@
 
 ## 目录
 
-### Recommendation
-推荐系统相关文章，研究不多，欢迎补充
-* [微博推荐策略平台Eros.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Recommendation/%E5%BE%AE%E5%8D%9A%E6%8E%A8%E8%8D%90%E7%AD%96%E7%95%A5%E5%B9%B3%E5%8F%B0Eros.pdf) <br />
-
-* [Deep Neural Networks for YouTube Recommendations.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Recommendation/Deep%20Neural%20Networks%20for%20YouTube%20Recommendations.pdf) <br />
-* [Matrix Factorization  Techniques for  Recommender  Systems.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Recommendation/Matrix%20Factorization%20%20Techniques%20for%20%20Recommender%20%20Systems.pdf) <br />
-* [Wide & Deep Learning for Recommender Systems.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Recommendation/Wide%20%26%20Deep%20Learning%20for%20Recommender%20Systems.pdf) <br />
-* [基于BPR-MF算法的推荐系统设计.docx](https://github.com/wzhe06/Ad-papers/blob/master/Recommendation/%E5%9F%BA%E4%BA%8EBPR-MF%E7%AE%97%E6%B3%95%E7%9A%84%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1.docx) <br />
-
-
 ### Optimization Method
 Online Optimization，Parallel SGD，FTRL等优化方法，很实用的一些文章
 * [Google Vizier A Service for Black-Box Optimization.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Optimization%20Method/Google%20Vizier%20A%20Service%20for%20Black-Box%20Optimization.pdf) <br />
@@ -44,12 +34,10 @@ CTR预估模型相关问题
 * [Deep Crossing- Web-Scale Modeling without Manually Crafted Combinatorial Features.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Deep%20Crossing-%20Web-Scale%20Modeling%20without%20Manually%20Crafted%20Combinatorial%20Features.pdf) <br />
 * [Learning Piece-wise Linear Models from Large Scale Data for Ad Click Prediction.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Learning%20Piece-wise%20Linear%20Models%20from%20Large%20Scale%20Data%20for%20Ad%20Click%20Prediction.pdf) <br />
 * [Entire Space Multi-Task Model_ An Effective Approach for Estimating Post-Click Conversion Rate.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Entire%20Space%20Multi-Task%20Model_%20An%20Effective%20Approach%20for%20Estimating%20Post-Click%20Conversion%20Rate.pdf) <br />
-* [Deep Interest Network for Click-Through Rate Prediction.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Deep%20Interest%20Network%20for%20Click-Through%20Rate%20Prediction.pdf) <br />
-*  [Wide & Deep Learning for Recommender Systems](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Wide%20%26%20Deep%20Learning%20for%20Recommender%20Systems.pdf) <br />
-Google 的 Wide & Deep 模型，论文将模型用于推荐系统中，但也可用于 CTR 预估中
-* [Deep Learning over Multi-field Categorical Data](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Deep%20Learning%20over%20Multi-field%20Categorical%20Data.pdf) <br />
+* [Deep Learning over Multi-field Categorical Data.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Deep%20Learning%20over%20Multi-field%20Categorical%20Data.pdf) <br />
 张伟楠博士的论文，提出了 FNN 模型，类似 Wide & Deep 的 Deep 部分，亮点在于用 FM 预训练的隐向量初始化 embedding 层
-* [Product-based Neural Networks for User Response Prediction](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Product-based%20Neural%20Networks%20for%20User%20Response%20Prediction.pdf) <br />
+* [Deep Interest Network for Click-Through Rate Prediction.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Deep%20Interest%20Network%20for%20Click-Through%20Rate%20Prediction.pdf) <br />
+* [Product-based Neural Networks for User Response Prediction.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Product-based%20Neural%20Networks%20for%20User%20Response%20Prediction.pdf) <br />
 张伟楠博士的另外一篇论文，提出了 PNN 模型，在 FNN 基础上对特征的隐向量进行了 inner product 作为新特征
 * [Ad Click Prediction a View from the Trenches.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Ad%20Click%20Prediction%20a%20View%20from%20the%20Trenches.pdf) <br />
 Google大名鼎鼎的用FTRL解决CTR在线预估的工程文章，非常经典。
@@ -57,6 +45,8 @@ Google大名鼎鼎的用FTRL解决CTR在线预估的工程文章，非常经典�
 * [Logistic Regression in Rare Events Data.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Logistic%20Regression%20in%20Rare%20Events%20Data.pdf) <br />
 样本稀少情况下的LR模型训练，讲的比较细
 * [Learning Deep Structured Semantic Models for Web Search using Clickthrough Data.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Learning%20Deep%20Structured%20Semantic%20Models%20for%20Web%20Search%20using%20Clickthrough%20Data.pdf) <br />
+* [Wide & Deep Learning for Recommender Systems.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Wide%20%26%20Deep%20Learning%20for%20Recommender%20Systems.pdf) <br />
+Google 的 Wide & Deep 模型，论文将模型用于推荐系统中，但也可用于 CTR 预估中
 * [Adaptive Targeting for Online Advertisement.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Adaptive%20Targeting%20for%20Online%20Advertisement.pdf) <br />
 一篇比较简单但是全面的CTR预估的文章，有一定实用性
 * [Practical Lessons from Predicting Clicks on Ads at Facebook.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Practical%20Lessons%20from%20Predicting%20Clicks%20on%20Ads%20at%20Facebook.pdf) <br />
@@ -76,7 +66,6 @@ Facebook的一篇非常出名的文章，GBDT＋LR/FM解决CTR预估问题，工
 Google三大篇，HDFS，MapReduce，BigTable，奠定大数据基础架构的三篇文章，应该读一读
 * [MapReduce Simplified Data Processing on Large Clusters.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Google%20Three%20Papers/MapReduce%20Simplified%20Data%20Processing%20on%20Large%20Clusters.pdf) <br />
 * [The Google File System.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Google%20Three%20Papers/The%20Google%20File%20System.pdf) <br />
-
 * [Bigtable A Distributed Storage System for Structured Data.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Google%20Three%20Papers/Bigtable%20A%20Distributed%20Storage%20System%20for%20Structured%20Data.pdf) <br />
 
 
@@ -87,7 +76,6 @@ FM因子分解机模型的相关paper，在计算广告领域非常实用的模�
 * [Factorization Machines Rendle2010.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Factorization%20Machines/Factorization%20Machines%20Rendle2010.pdf) <br />
 * [libfm-1.42.manual.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Factorization%20Machines/libfm-1.42.manual.pdf) <br />
 * [Scaling Factorization Machines to Relational Data.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Factorization%20Machines/Scaling%20Factorization%20Machines%20to%20Relational%20Data.pdf) <br />
-
 * [Fast Context-aware Recommendations with Factorization Machines.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Factorization%20Machines/Fast%20Context-aware%20Recommendations%20with%20Factorization%20Machines.pdf) <br />
 * [fastFM- A Library for Factorization Machines.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Factorization%20Machines/fastFM-%20A%20Library%20for%20Factorization%20Machines.pdf) <br />
 
@@ -179,10 +167,9 @@ PID控制的经典教程
 张伟楠博士的RTB过程所有相关算法的书，全而精，非常棒
 * [Efficient Query Evaluation using a Two-Level Retrieval Process.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/Efficient%20Query%20Evaluation%20using%20a%20Two-Level%20Retrieval%20Process.pdf) <br />
 搜索广告中经典的搜索算法 Wand(Weak AND)
-* [Overlapping Experiment Infrastructure:More, Better, Faster Experimentation.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/Overlapping%20Experiment%20Infrastructure%20More%2C%20Better%2C%20Faster%20Experimentation.pdf) <br />
-Google 一篇关于 A/B 测试框架的论文，涉及到如何切分流量以同时进行多个 A/B 测试，工程性很强
 * [Scaling Distributed Machine Learning with the Parameter Server.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/Scaling%20Distributed%20Machine%20Learning%20with%20the%20Parameter%20Server.pdf) <br />
-
+* [Overlapping Experiment Infrastructure More, Better, Faster Experimentation.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/Overlapping%20Experiment%20Infrastructure%20More%2C%20Better%2C%20Faster%20Experimentation.pdf) <br />
+Google 一篇关于 A/B 测试框架的论文，涉及到如何切分流量以同时进行多个 A/B 测试，工程性很强
 
 ### Machine Learning Tutorial
 机器学习方面一些非常实用的学习资料
@@ -194,14 +181,12 @@ Google 一篇关于 A/B 测试框架的论文，涉及到如何切分流量以�
 * [Deep Learning Tutorial.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Machine%20Learning%20Tutorial/Deep%20Learning%20Tutorial.pdf) <br />
 * [广义线性模型.ppt](https://github.com/wzhe06/Ad-papers/blob/master/Machine%20Learning%20Tutorial/%E5%B9%BF%E4%B9%89%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B.ppt) <br />
 * [贝叶斯统计学(PPT).pdf](https://github.com/wzhe06/Ad-papers/blob/master/Machine%20Learning%20Tutorial/%E8%B4%9D%E5%8F%B6%E6%96%AF%E7%BB%9F%E8%AE%A1%E5%AD%A6%28PPT%29.pdf) <br />
-
 * [关联规则基本算法及其应用.doc](https://github.com/wzhe06/Ad-papers/blob/master/Machine%20Learning%20Tutorial/%E5%85%B3%E8%81%94%E8%A7%84%E5%88%99%E5%9F%BA%E6%9C%AC%E7%AE%97%E6%B3%95%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8.doc) <br />
 
 
 ### Transfer Learning
 迁移学习相关文章，计算广告中经常遇到新广告冷启动的问题，利用迁移学习能较好解决该问题
 * [Scalable Hands-Free Transfer Learning for Online Advertising.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Transfer%20Learning/Scalable%20Hands-Free%20Transfer%20Learning%20for%20Online%20Advertising.pdf) <br />
-
 * [A Survey on Transfer Learning.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Transfer%20Learning/A%20Survey%20on%20Transfer%20Learning.pdf) <br />
 
 
