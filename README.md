@@ -52,6 +52,8 @@ Google 的 Wide & Deep 模型，论文将模型用于推荐系统中，但也可
 一篇比较简单但是全面的CTR预估的文章，有一定实用性
 * [Practical Lessons from Predicting Clicks on Ads at Facebook.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Practical%20Lessons%20from%20Predicting%20Clicks%20on%20Ads%20at%20Facebook.pdf) <br />
 Facebook的一篇非常出名的文章，GBDT＋LR/FM解决CTR预估问题，工程性很强
+* [Bid-aware Gradient Descent for Unbiased Learning with Censored Data in Display Advertising.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Bid-aware%20Gradient%20Descent%20for%20Unbiased%20Learning%20with%20Censored%20Data%20in%20Display%20Advertising.pdf)<br />
+RTB 中训练 CTR 模型数据集是赢得出价的广告，预测时的样本却是所有候选的广告，也就是训练集和测试集的分布不一致，这篇文章就是要消除这样的 bias
 
 ### Topic Model
 话题模型相关文章，PLSA，LDA，进行广告Context特征提取，创意优化经常会用到Topic Model
