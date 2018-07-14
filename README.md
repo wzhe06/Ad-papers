@@ -32,6 +32,8 @@ Online Optimization，Parallel SGD，FTRL等优化方法，实用并且能够给
 
 ### CTR Prediction
 CTR预估模型相关问题，作为计算广告的核心，CTR预估永远是研究的热点，下面每一篇都是非常流行的文章，推荐逐一精读
+* [Deep & Cross Network for Ad Click Predictions.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Deep%20%26%20Cross%20Network%20for%20Ad%20Click%20Predictions.pdf) <br />
+Google 在17年发表的 Deep&Cross 网络，类似于 Wide&Deep, 比起 PNN 只做了特征二阶交叉，Deep&Cross 理论上能够做任意高阶的特征交叉
 * [Deep Crossing- Web-Scale Modeling without Manually Crafted Combinatorial Features.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Deep%20Crossing-%20Web-Scale%20Modeling%20without%20Manually%20Crafted%20Combinatorial%20Features.pdf) <br />
 * [Learning Piece-wise Linear Models from Large Scale Data for Ad Click Prediction.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Learning%20Piece-wise%20Linear%20Models%20from%20Large%20Scale%20Data%20for%20Ad%20Click%20Prediction.pdf) <br />
 * [[FNN]Deep Learning over Multi-field Categorical Data.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/%5BFNN%5DDeep%20Learning%20over%20Multi-field%20Categorical%20Data.pdf) <br />
@@ -51,6 +53,8 @@ Google 的 Wide & Deep 模型，论文将模型用于推荐系统中，但也可
 一篇比较简单但是全面的CTR预估的文章，有一定实用性
 * [Practical Lessons from Predicting Clicks on Ads at Facebook.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Practical%20Lessons%20from%20Predicting%20Clicks%20on%20Ads%20at%20Facebook.pdf) <br />
 Facebook的一篇非常出名的文章，GBDT＋LR/FM解决CTR预估问题，工程性很强
+* [Bid-aware Gradient Descent for Unbiased Learning with Censored Data in Display Advertising.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Bid-aware%20Gradient%20Descent%20for%20Unbiased%20Learning%20with%20Censored%20Data%20in%20Display%20Advertising.pdf)<br />
+RTB 中训练 CTR 模型数据集是赢得出价的广告，预测时的样本却是所有候选的广告，也就是训练集和测试集的分布不一致，这篇文章就是要消除这样的 bias
 
 ### Topic Model
 话题模型相关文章，PLSA，LDA，进行广告Context特征提取，创意优化经常会用到Topic Model
