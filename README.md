@@ -34,15 +34,14 @@ Online Optimization，Parallel SGD，FTRL等优化方法，实用并且能够给
 CTR预估模型相关问题，作为计算广告的核心，CTR预估永远是研究的热点，下面每一篇都是非常流行的文章，推荐逐一精读
 * [Deep Crossing- Web-Scale Modeling without Manually Crafted Combinatorial Features.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Deep%20Crossing-%20Web-Scale%20Modeling%20without%20Manually%20Crafted%20Combinatorial%20Features.pdf) <br />
 * [Learning Piece-wise Linear Models from Large Scale Data for Ad Click Prediction.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Learning%20Piece-wise%20Linear%20Models%20from%20Large%20Scale%20Data%20for%20Ad%20Click%20Prediction.pdf) <br />
+* [[FNN]Deep Learning over Multi-field Categorical Data.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/%5BFNN%5DDeep%20Learning%20over%20Multi-field%20Categorical%20Data.pdf) <br />
 * [Entire Space Multi-Task Model_ An Effective Approach for Estimating Post-Click Conversion Rate.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Entire%20Space%20Multi-Task%20Model_%20An%20Effective%20Approach%20for%20Estimating%20Post-Click%20Conversion%20Rate.pdf) <br />
-* [Deep Learning over Multi-field Categorical Data.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Deep%20Learning%20over%20Multi-field%20Categorical%20Data.pdf) <br />
-张伟楠博士的论文，提出了 FNN 模型，类似 Wide & Deep 的 Deep 部分，亮点在于用 FM 预训练的隐向量初始化 embedding 层
 * [Deep Interest Network for Click-Through Rate Prediction.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Deep%20Interest%20Network%20for%20Click-Through%20Rate%20Prediction.pdf) <br />
 * [Product-based Neural Networks for User Response Prediction.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Product-based%20Neural%20Networks%20for%20User%20Response%20Prediction.pdf) <br />
 张伟楠博士的另外一篇论文，提出了 PNN 模型，在 FNN 基础上对特征的隐向量进行了 inner product 作为新特征
 * [Ad Click Prediction a View from the Trenches.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Ad%20Click%20Prediction%20a%20View%20from%20the%20Trenches.pdf) <br />
 Google大名鼎鼎的用FTRL解决CTR在线预估的工程文章，非常经典。
-* [DeepFM- A Factorization-Machine based Neural Network for CTR Prediction.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/DeepFM-%20A%20Factorization-Machine%20based%20Neural%20Network%20for%20CTR%20Prediction.pdf) <br />
+* [[DeepFM]- A Factorization-Machine based Neural Network for CTR Prediction.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/%5BDeepFM%5D-%20A%20Factorization-Machine%20based%20Neural%20Network%20for%20CTR%20Prediction.pdf) <br />
 * [Logistic Regression in Rare Events Data.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Logistic%20Regression%20in%20Rare%20Events%20Data.pdf) <br />
 样本稀少情况下的LR模型训练，讲的比较细
 * [Learning Deep Structured Semantic Models for Web Search using Clickthrough Data.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Learning%20Deep%20Structured%20Semantic%20Models%20for%20Web%20Search%20using%20Clickthrough%20Data.pdf) <br />
@@ -129,14 +128,17 @@ PID控制的经典教程
 ### Computational Advertising Architect
 广告系统的架构问题
 * [Parameter Server for Distributed Machine Learning.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/Parameter%20Server%20for%20Distributed%20Machine%20Learning.pdf) <br />
+* [[TensorFlow Whitepaper]TensorFlow- Large-Scale Machine Learning on Heterogeneous Distributed Systems.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/%5BTensorFlow%20Whitepaper%5DTensorFlow-%20Large-Scale%20Machine%20Learning%20on%20Heterogeneous%20Distributed%20Systems.pdf) <br />
 * [大数据下的广告排序技术及实践.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%B8%8B%E7%9A%84%E5%B9%BF%E5%91%8A%E6%8E%92%E5%BA%8F%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%AE%9E%E8%B7%B5.pdf) <br />
 阿里妈妈的一篇广告排序问题的ppt，模型、训练、评估都有涉及，很有工程价值
 * [美团机器学习 吃喝玩乐中的算法问题.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/%E7%BE%8E%E5%9B%A2%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%20%E5%90%83%E5%96%9D%E7%8E%A9%E4%B9%90%E4%B8%AD%E7%9A%84%E7%AE%97%E6%B3%95%E9%97%AE%E9%A2%98.pdf) <br />
 美团王栋博士的一篇关于美团机器学习相关问题的介绍，介绍的比较全但比较粗浅，可以借此了解美团的一些机器学习问题
 * [Display Advertising with Real-Time Bidding (RTB) and Behavioural Targeting.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/Display%20Advertising%20with%20Real-Time%20Bidding%20%28RTB%29%20and%20Behavioural%20Targeting.pdf) <br />
 张伟楠博士的RTB过程所有相关算法的书，全而精，非常棒
+* [A Comparison of Distributed Machine Learning Platforms.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/A%20Comparison%20of%20Distributed%20Machine%20Learning%20Platforms.pdf) <br />
 * [Efficient Query Evaluation using a Two-Level Retrieval Process.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/Efficient%20Query%20Evaluation%20using%20a%20Two-Level%20Retrieval%20Process.pdf) <br />
 搜索广告中经典的搜索算法 Wand(Weak AND)
+* [[TensorFlow Whitepaper]TensorFlow- A System for Large-Scale Machine Learning.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/%5BTensorFlow%20Whitepaper%5DTensorFlow-%20A%20System%20for%20Large-Scale%20Machine%20Learning.pdf) <br />
 * [Scaling Distributed Machine Learning with the Parameter Server.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/Scaling%20Distributed%20Machine%20Learning%20with%20the%20Parameter%20Server.pdf) <br />
 * [Overlapping Experiment Infrastructure More, Better, Faster Experimentation.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/Overlapping%20Experiment%20Infrastructure%20More%2C%20Better%2C%20Faster%20Experimentation.pdf) <br />
 Google 一篇关于 A/B 测试框架的论文，涉及到如何切分流量以同时进行多个 A/B 测试，工程性很强
