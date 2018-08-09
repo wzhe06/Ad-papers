@@ -3,8 +3,8 @@
 
 **下面将列出所有的资料目录，以及我对每篇文章的简要介绍** <br>如有任何问题，欢迎对计算广告感兴趣的同学与我讨论，我的联系方式如下：
 * email: wzhe06@gmail.com
+* LinkedIn: [王喆的LinkedIn](https://www.linkedin.com/in/zhe-wang-profile/)
 * 知乎私信: [王喆的知乎](https://www.zhihu.com/people/wang-zhe-58)
-* 主页留言: [王喆的主页](http://wangzhe.website/about/)
 
 **会不断加入一些重要的计算广告相关论文和资料，并去掉一些过时的或者跟计算广告不太相关的论文**
 
