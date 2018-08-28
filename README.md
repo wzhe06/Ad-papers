@@ -1,19 +1,19 @@
 # 计算广告论文、学习资料、业界分享
 动态更新工作中实现或者阅读过的计算广告相关论文、学习资料和业界分享，作为自己工作的总结，也希望能为计算广告相关行业的同学带来便利。
-所有资料均来自于互联网，如有侵权，请联系王喆。同时欢迎对计算广告感兴趣的同学与我讨论相关问题，我的联系方式如下：
+所有资料均来自于互联网，如有侵权，请联系_王喆_。同时欢迎对计算广告感兴趣的同学与我讨论相关问题，我的联系方式如下：
 * Email: wzhe06@gmail.com
 * LinkedIn: [王喆的LinkedIn](https://www.linkedin.com/in/zhe-wang-profile/)
 * 知乎私信: [王喆的知乎](https://www.zhihu.com/people/wang-zhe-58)
 
 **会不断加入一些重要的计算广告相关论文和资料，并去掉一些过时的或者跟计算广告不太相关的论文**
 * `New!` [Image Matters- Visually modeling user behaviors using Advanced Model Server.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Image%20Matters-%20Visually%20modeling%20user%20behaviors%20using%20Advanced%20Model%20Server.pdf) <br />
-阿里提出引入商品图像特征的（Deep Image CTR Model）CTR预估模型，并介绍其分布式机器学习框架 Advanced Model Server (AMS)
+阿里提出引入商品图像特征的（Deep Image CTR Model）CTR预估模型，并介绍其分布式机器学习框架AMS
 * `New!` [Deep Interest Network for Click-Through Rate Prediction.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Deep%20Interest%20Network%20for%20Click-Through%20Rate%20Prediction.pdf) <br />
 阿里提出的深度兴趣网络（Deep Interest Network）CTR预估模型
 
 **其他相关资源**
 * [张伟楠的RTB Papers列表](https://github.com/wnzhang/rtb-papers)<br />
-* [基于Spark MLlib的CTR prediction模型(LR, Random forest, GBDT, NN, PNN)](https://github.com/wzhe06/CTRmodel) <br />
+* [基于Spark MLlib的CTR预估模型(LR, FM, RF, GBDT, NN, PNN)](https://github.com/wzhe06/CTRmodel) <br />
 * [推荐系统相关论文和资源列表](https://github.com/wzhe06/Reco-papers) <br />
 * [Honglei Zhang的推荐系统论文列表](https://github.com/hongleizhang/RSPapers)
 
@@ -22,6 +22,7 @@
 ### Optimization Method
 Online Optimization，Parallel SGD，FTRL等优化方法，实用并且能够给出直观解释的文章
 * [Google Vizier A Service for Black-Box Optimization.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Optimization%20Method/Google%20Vizier%20A%20Service%20for%20Black-Box%20Optimization.pdf) <br />
+Google的深度学习自动调参框架Vizier
 * [在线最优化求解(Online Optimization)-冯扬.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Optimization%20Method/%E5%9C%A8%E7%BA%BF%E6%9C%80%E4%BC%98%E5%8C%96%E6%B1%82%E8%A7%A3%28Online%20Optimization%29-%E5%86%AF%E6%89%AC.pdf) <br />
 非常推荐冯扬的这个教程，把在线优化问题讲的非常透
 * [Hogwild A Lock-Free Approach to Parallelizing Stochastic Gradient Descent.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Optimization%20Method/Hogwild%20A%20Lock-Free%20Approach%20to%20Parallelizing%20Stochastic%20Gradient%20Descent.pdf) <br />
@@ -34,7 +35,7 @@ Online Optimization，Parallel SGD，FTRL等优化方法，实用并且能够给
 
 
 ### CTR Prediction
-CTR预估模型相关问题，作为计算广告的核心，CTR预估永远是研究的热点，下面每一篇都是非常流行的文章，推荐逐一精读
+作为计算广告的核心，CTR预估永远是研究的热点，下面每一篇都是非常流行的文章，推荐逐一精读
 * [Deep Crossing- Web-Scale Modeling without Manually Crafted Combinatorial Features.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Deep%20Crossing-%20Web-Scale%20Modeling%20without%20Manually%20Crafted%20Combinatorial%20Features.pdf) <br />
 * [Learning Piece-wise Linear Models from Large Scale Data for Ad Click Prediction.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Learning%20Piece-wise%20Linear%20Models%20from%20Large%20Scale%20Data%20for%20Ad%20Click%20Prediction.pdf) <br />
 阿里提出的Large Scale Piece-wise Linear Model (LS-PLM) CTR预估模型
