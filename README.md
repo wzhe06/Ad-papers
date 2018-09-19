@@ -133,6 +133,9 @@ PID控制的经典教程
 微软的一篇基于PID反馈控制的与效果相关的竞价算法
 * [Deep Reinforcement Learning for Sponsored Search Real-time Bidding.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Bidding%20Strategy/Deep%20Reinforcement%20Learning%20for%20Sponsored%20Search%20Real-time%20Bidding.pdf) <br />
 阿里妈妈搜索广告团队的论文，通过 Reinforcement Learning 探索实时出价问题<br />
+* [Optimized Cost per Click in Taobao Display Advertising.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Bidding%20Strategy/Optimized%20Cost%20per%20Click%20in%20Taobao%20Display%20Advertising.pdf) <br />
+淘宝搜索广告中 OCPC 模式的出价策略<br />
+
 
 ### Computational Advertising Architect
 广告系统的架构问题
