@@ -22,9 +22,7 @@
 ### Optimization Method
 Online Optimization，Parallel SGD，FTRL等优化方法，实用并且能够给出直观解释的文章
 * [Google Vizier A Service for Black-Box Optimization](https://github.com/wzhe06/Reco-papers/blob/master/Optimization%20Method/Google%20Vizier%20A%20Service%20for%20Black-Box%20Optimization.pdf) <br />
-Google的深度学习自动调参框架Vizier
 * [在线最优化求解(Online Optimization)-冯扬](https://github.com/wzhe06/Reco-papers/blob/master/Optimization%20Method/%E5%9C%A8%E7%BA%BF%E6%9C%80%E4%BC%98%E5%8C%96%E6%B1%82%E8%A7%A3%28Online%20Optimization%29-%E5%86%AF%E6%89%AC.pdf) <br />
-非常推荐冯扬的这个教程，把在线优化问题讲的非常透
 * [Hogwild A Lock-Free Approach to Parallelizing Stochastic Gradient Descent](https://github.com/wzhe06/Reco-papers/blob/master/Optimization%20Method/Hogwild%20A%20Lock-Free%20Approach%20to%20Parallelizing%20Stochastic%20Gradient%20Descent.pdf) <br />
 * [Parallelized Stochastic Gradient Descent](https://github.com/wzhe06/Reco-papers/blob/master/Optimization%20Method/Parallelized%20Stochastic%20Gradient%20Descent.pdf) <br />
 * [A Survey on Algorithms of the Regularized Convex Optimization Problem](https://github.com/wzhe06/Reco-papers/blob/master/Optimization%20Method/A%20Survey%20on%20Algorithms%20of%20the%20Regularized%20Convex%20Optimization%20Problem.pptx) <br />
@@ -32,35 +30,6 @@ Google的深度学习自动调参框架Vizier
 * [A Review of Bayesian Optimization](https://github.com/wzhe06/Reco-papers/blob/master/Optimization%20Method/A%20Review%20of%20Bayesian%20Optimization.pdf) <br />
 * [Taking the Human Out of the Loop- A Review of Bayesian Optimization](https://github.com/wzhe06/Reco-papers/blob/master/Optimization%20Method/Taking%20the%20Human%20Out%20of%20the%20Loop-%20A%20Review%20of%20Bayesian%20Optimization.pdf) <br />
 * [非线性规划](https://github.com/wzhe06/Reco-papers/blob/master/Optimization%20Method/%E9%9D%9E%E7%BA%BF%E6%80%A7%E8%A7%84%E5%88%92.doc) <br />
-
-
-### CTR Prediction
-作为计算广告的核心，CTR预估永远是研究的热点，下面每一篇都是非常流行的文章，推荐逐一精读
-* [Deep Crossing- Web-Scale Modeling without Manually Crafted Combinatorial Features](https://github.com/wzhe06/Reco-papers/blob/master/CTR%20Prediction/Deep%20Crossing-%20Web-Scale%20Modeling%20without%20Manually%20Crafted%20Combinatorial%20Features.pdf) <br />
-* [[DIEN]Deep Interest Evolution Network for Click-Through Rate Prediction](https://github.com/wzhe06/Reco-papers/blob/master/CTR%20Prediction/%5BDIEN%5DDeep%20Interest%20Evolution%20Network%20for%20Click-Through%20Rate%20Prediction.pdf) <br />
-* [Learning Piece-wise Linear Models from Large Scale Data for Ad Click Prediction](https://github.com/wzhe06/Reco-papers/blob/master/CTR%20Prediction/Learning%20Piece-wise%20Linear%20Models%20from%20Large%20Scale%20Data%20for%20Ad%20Click%20Prediction.pdf) <br />
-阿里提出的Large Scale Piece-wise Linear Model (LS-PLM) CTR预估模型
-* [[GBDT+LR]Practical Lessons from Predicting Clicks on Ads at Facebook](https://github.com/wzhe06/Reco-papers/blob/master/CTR%20Prediction/%5BGBDT%2BLR%5DPractical%20Lessons%20from%20Predicting%20Clicks%20on%20Ads%20at%20Facebook.pdf) <br />
-* [[FNN]Deep Learning over Multi-field Categorical Data](https://github.com/wzhe06/Reco-papers/blob/master/CTR%20Prediction/%5BFNN%5DDeep%20Learning%20over%20Multi-field%20Categorical%20Data.pdf) <br />
-* [Entire Space Multi-Task Model_ An Effective Approach for Estimating Post-Click Conversion Rate](https://github.com/wzhe06/Reco-papers/blob/master/CTR%20Prediction/Entire%20Space%20Multi-Task%20Model_%20An%20Effective%20Approach%20for%20Estimating%20Post-Click%20Conversion%20Rate.pdf) <br />
-* [Bid-aware Gradient Descent for Unbiased Learning with Censored Data in Display Advertising](https://github.com/wzhe06/Reco-papers/blob/master/CTR%20Prediction/Bid-aware%20Gradient%20Descent%20for%20Unbiased%20Learning%20with%20Censored%20Data%20in%20Display%20Advertising.pdf) <br />
-RTB 中训练 CTR 模型数据集是赢得出价的广告，预测时的样本却是所有候选的广告，也就是训练集和测试集的分布不一致，这篇文章就是要消除这样的 bias
-* [[Multi-Task]An Overview of Multi-Task Learning in Deep Neural Networks](https://github.com/wzhe06/Reco-papers/blob/master/CTR%20Prediction/%5BMulti-Task%5DAn%20Overview%20of%20Multi-Task%20Learning%20in%20Deep%20Neural%20Networks.pdf) <br />
-* [[DIN]Deep Interest Network for Click-Through Rate Prediction](https://github.com/wzhe06/Reco-papers/blob/master/CTR%20Prediction/%5BDIN%5DDeep%20Interest%20Network%20for%20Click-Through%20Rate%20Prediction.pdf) <br />
-* [Ad Click Prediction a View from the Trenches](https://github.com/wzhe06/Reco-papers/blob/master/CTR%20Prediction/Ad%20Click%20Prediction%20a%20View%20from%20the%20Trenches.pdf) <br />
-Google大名鼎鼎的用FTRL解决CTR在线预估的工程文章，非常经典。
-* [[PNN]Product-based Neural Networks for User Response Prediction](https://github.com/wzhe06/Reco-papers/blob/master/CTR%20Prediction/%5BPNN%5DProduct-based%20Neural%20Networks%20for%20User%20Response%20Prediction.pdf) <br />
-* [Image Matters- Visually modeling user behaviors using Advanced Model Server](https://github.com/wzhe06/Reco-papers/blob/master/CTR%20Prediction/Image%20Matters-%20Visually%20modeling%20user%20behaviors%20using%20Advanced%20Model%20Server.pdf) <br />
-阿里提出引入商品图像特征的（Deep Image CTR Model）CTR预估模型，并介绍其分布式机器学习框架 Advanced Model Server (AMS)
-* [[Wide & Deep]Wide & Deep Learning for Recommender Systems](https://github.com/wzhe06/Reco-papers/blob/master/CTR%20Prediction/%5BWide%20%26%20Deep%5DWide%20%26%20Deep%20Learning%20for%20Recommender%20Systems.pdf) <br />
-* [[DeepFM]- A Factorization-Machine based Neural Network for CTR Prediction](https://github.com/wzhe06/Reco-papers/blob/master/CTR%20Prediction/%5BDeepFM%5D-%20A%20Factorization-Machine%20based%20Neural%20Network%20for%20CTR%20Prediction.pdf) <br />
-* [Logistic Regression in Rare Events Data](https://github.com/wzhe06/Reco-papers/blob/master/CTR%20Prediction/Logistic%20Regression%20in%20Rare%20Events%20Data.pdf) <br />
-样本稀少情况下的LR模型训练，讲的比较细
-* [Deep & Cross Network for Ad Click Predictions](https://github.com/wzhe06/Reco-papers/blob/master/CTR%20Prediction/Deep%20%26%20Cross%20Network%20for%20Ad%20Click%20Predictions.pdf) <br />
-Google 在17年发表的 Deep&Cross 网络，类似于 Wide&Deep, 比起 PNN 只做了特征二阶交叉，Deep&Cross 理论上能够做任意高阶的特征交叉
-* [Learning Deep Structured Semantic Models for Web Search using Clickthrough Data](https://github.com/wzhe06/Reco-papers/blob/master/CTR%20Prediction/Learning%20Deep%20Structured%20Semantic%20Models%20for%20Web%20Search%20using%20Clickthrough%20Data.pdf) <br />
-* [Adaptive Targeting for Online Advertisement](https://github.com/wzhe06/Reco-papers/blob/master/CTR%20Prediction/Adaptive%20Targeting%20for%20Online%20Advertisement.pdf) <br />
-一篇比较简单但是全面的CTR预估的文章，有一定实用性
 
 ### Topic Model
 话题模型相关文章，PLSA，LDA，进行广告Context特征提取，创意优化经常会用到Topic Model
@@ -71,38 +40,28 @@ Google 在17年发表的 Deep&Cross 网络，类似于 Wide&Deep, 比起 PNN 只
 * [Dirichlet Distribution, Dirichlet Process and Dirichlet Process Mixture(PPT)](https://github.com/wzhe06/Reco-papers/blob/master/Topic%20Model/Dirichlet%20Distribution%2C%20Dirichlet%20Process%20and%20Dirichlet%20Process%20Mixture%28PPT%29.pdf) <br />
 * [理解共轭先验](https://github.com/wzhe06/Reco-papers/blob/master/Topic%20Model/%E7%90%86%E8%A7%A3%E5%85%B1%E8%BD%AD%E5%85%88%E9%AA%8C.pdf) <br />
 
-
 ### Google Three Papers
 Google三大篇，HDFS，MapReduce，BigTable，奠定大数据基础架构的三篇文章，任何从事大数据行业的工程师都应该了解
 * [MapReduce Simplified Data Processing on Large Clusters](https://github.com/wzhe06/Reco-papers/blob/master/Google%20Three%20Papers/MapReduce%20Simplified%20Data%20Processing%20on%20Large%20Clusters.pdf) <br />
 * [The Google File System](https://github.com/wzhe06/Reco-papers/blob/master/Google%20Three%20Papers/The%20Google%20File%20System.pdf) <br />
 * [Bigtable A Distributed Storage System for Structured Data](https://github.com/wzhe06/Reco-papers/blob/master/Google%20Three%20Papers/Bigtable%20A%20Distributed%20Storage%20System%20for%20Structured%20Data.pdf) <br />
 
-
 ### Factorization Machines
 FM因子分解机模型的相关paper，在计算广告领域非常实用的模型
 * [FM PPT by CMU](https://github.com/wzhe06/Reco-papers/blob/master/Factorization%20Machines/FM%20PPT%20by%20CMU.pdf) <br />
-* [Field-aware Factorization Machines for CTR Prediction](https://github.com/wzhe06/Reco-papers/blob/master/Factorization%20Machines/Field-aware%20Factorization%20Machines%20for%20CTR%20Prediction.pdf) <br />
 * [Factorization Machines Rendle2010](https://github.com/wzhe06/Reco-papers/blob/master/Factorization%20Machines/Factorization%20Machines%20Rendle2010.pdf) <br />
 * [libfm-1.42.manual](https://github.com/wzhe06/Reco-papers/blob/master/Factorization%20Machines/libfm-1.42.manual.pdf) <br />
 * [Scaling Factorization Machines to Relational Data](https://github.com/wzhe06/Reco-papers/blob/master/Factorization%20Machines/Scaling%20Factorization%20Machines%20to%20Relational%20Data.pdf) <br />
-* [Fast Context-aware Recommendations with Factorization Machines](https://github.com/wzhe06/Reco-papers/blob/master/Factorization%20Machines/Fast%20Context-aware%20Recommendations%20with%20Factorization%20Machines.pdf) <br />
 * [fastFM- A Library for Factorization Machines](https://github.com/wzhe06/Reco-papers/blob/master/Factorization%20Machines/fastFM-%20A%20Library%20for%20Factorization%20Machines.pdf) <br />
-
 
 ### Budget Control
 广告系统中Pacing，预算控制，以及怎么把预算控制与其他模块相结合的问题
 * [Budget Pacing for Targeted Online Advertisements at LinkedIn](https://github.com/wzhe06/Reco-papers/blob/master/Budget%20Control/Budget%20Pacing%20for%20Targeted%20Online%20Advertisements%20at%20LinkedIn.pdf) <br />
-linkedin的一篇非常有工程价值的解决pacing问题的文章，强烈建议计算广告系统采用此方法。
 * [Predicting Traffic of Online Advertising in Real-time Bidding Systems from Perspective of Demand-Side Platforms](https://github.com/wzhe06/Reco-papers/blob/master/Budget%20Control/Predicting%20Traffic%20of%20Online%20Advertising%20in%20Real-time%20Bidding%20Systems%20from%20Perspective%20of%20Demand-Side%20Platforms.pdf) <br />
 * [Real Time Bid Optimization with Smooth Budget Delivery in Online Advertising](https://github.com/wzhe06/Reco-papers/blob/master/Budget%20Control/Real%20Time%20Bid%20Optimization%20with%20Smooth%20Budget%20Delivery%20in%20Online%20Advertising.pdf) <br />
-如何将Pcaing与效果优化结合在一起，这篇文章讲的很清楚
 * [PID控制经典培训教程](https://github.com/wzhe06/Reco-papers/blob/master/Budget%20Control/PID%E6%8E%A7%E5%88%B6%E7%BB%8F%E5%85%B8%E5%9F%B9%E8%AE%AD%E6%95%99%E7%A8%8B.pdf) <br />
-PID控制的经典教程
 * [PID控制原理与控制算法](https://github.com/wzhe06/Reco-papers/blob/master/Budget%20Control/PID%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86%E4%B8%8E%E6%8E%A7%E5%88%B6%E7%AE%97%E6%B3%95.doc) <br />
-对于采用PID控制解决pacing问题，该文章是PID控制原理比较清晰的介绍文章。
 * [Smart Pacing for Effective Online Ad Campaign Optimization](https://github.com/wzhe06/Reco-papers/blob/master/Budget%20Control/Smart%20Pacing%20for%20Effective%20Online%20Ad%20Campaign%20Optimization.pdf) <br />
-跟上篇文章一样，都是雅虎同一组人写的，解决预算控制与效果结合的问题，可以跟上篇文章一起看了
 
 ### Tree Model
 树模型和基于树模型的boosting模型，树模型的效果在大部分问题上非常好，在CTR，CVR预估及特征工程方面的应用非常广
@@ -110,7 +69,6 @@ PID控制的经典教程
 * [Classification and Regression Trees](https://github.com/wzhe06/Reco-papers/blob/master/Tree%20Model/Classification%20and%20Regression%20Trees.pdf) <br />
 * [Greedy Function Approximation A Gradient Boosting Machine](https://github.com/wzhe06/Reco-papers/blob/master/Tree%20Model/Greedy%20Function%20Approximation%20A%20Gradient%20Boosting%20Machine.pdf) <br />
 * [Classification and Regression Trees](https://github.com/wzhe06/Reco-papers/blob/master/Tree%20Model/Classification%20and%20Regression%20Trees.ppt) <br />
-
 
 ### Guaranteed Contracts Ads
 事实上，现在很多大的媒体主仍是合约广告系统，合约广告系统的在线分配，Yield Optimization，以及定价问题都是非常重要且有挑战性的问题
@@ -120,40 +78,38 @@ PID控制的经典教程
 * [Pricing Guidance in Ad Sale Negotiations The PrintAds Example](https://github.com/wzhe06/Reco-papers/blob/master/Guaranteed%20Contracts%20Ads/Pricing%20Guidance%20in%20Ad%20Sale%20Negotiations%20The%20PrintAds%20Example.pdf) <br />
 * [Risk-Aware Revenue Maximization in Display Advertising](https://github.com/wzhe06/Reco-papers/blob/master/Guaranteed%20Contracts%20Ads/Risk-Aware%20Revenue%20Maximization%20in%20Display%20Advertising.pdf) <br />
 
+### Classic CTR Prediction
+* [[LR] Predicting Clicks - Estimating the Click-Through Rate for New Ads (Microsoft 2007)](https://github.com/wzhe06/Reco-papers/blob/master/Classic%20CTR%20Prediction/%5BLR%5D%20Predicting%20Clicks%20-%20Estimating%20the%20Click-Through%20Rate%20for%20New%20Ads%20%28Microsoft%202007%29.pdf) <br />
+* [[FFM] Field-aware Factorization Machines for CTR Prediction (Criteo 2016)](https://github.com/wzhe06/Reco-papers/blob/master/Classic%20CTR%20Prediction/%5BFFM%5D%20Field-aware%20Factorization%20Machines%20for%20CTR%20Prediction%20%28Criteo%202016%29.pdf) <br />
+* [[GBDT+LR] Practical Lessons from Predicting Clicks on Ads at Facebook (Facebook 2014)](https://github.com/wzhe06/Reco-papers/blob/master/Classic%20CTR%20Prediction/%5BGBDT%2BLR%5D%20Practical%20Lessons%20from%20Predicting%20Clicks%20on%20Ads%20at%20Facebook%20%28Facebook%202014%29.pdf) <br />
+* [[PS-PLM] Learning Piece-wise Linear Models from Large Scale Data for Ad Click Prediction (Alibaba 2017)](https://github.com/wzhe06/Reco-papers/blob/master/Classic%20CTR%20Prediction/%5BPS-PLM%5D%20Learning%20Piece-wise%20Linear%20Models%20from%20Large%20Scale%20Data%20for%20Ad%20Click%20Prediction%20%28Alibaba%202017%29.pdf) <br />
+* [[FTRL] Ad Click Prediction a View from the Trenches (Google 2013)](https://github.com/wzhe06/Reco-papers/blob/master/Classic%20CTR%20Prediction/%5BFTRL%5D%20Ad%20Click%20Prediction%20a%20View%20from%20the%20Trenches%20%28Google%202013%29.pdf) <br />
+* [[FM] Fast Context-aware Recommendations with Factorization Machines (UKON 2011)](https://github.com/wzhe06/Reco-papers/blob/master/Classic%20CTR%20Prediction/%5BFM%5D%20Fast%20Context-aware%20Recommendations%20with%20Factorization%20Machines%20%28UKON%202011%29.pdf) <br />
 
 ### Bidding Strategy
 计算广告中广告定价，RTB过程中广告出价策略的相关问题
 * [Research Frontier of Real-Time Bidding based Display Advertising](https://github.com/wzhe06/Reco-papers/blob/master/Bidding%20Strategy/Research%20Frontier%20of%20Real-Time%20Bidding%20based%20Display%20Advertising.pdf) <br />
-张伟楠博士的一篇介绍竞价算法的ppt，可以非常清晰的了解该问题的主要方法
 * [Budget Constrained Bidding by Model-free Reinforcement Learning in Display Advertising](https://github.com/wzhe06/Reco-papers/blob/master/Bidding%20Strategy/Budget%20Constrained%20Bidding%20by%20Model-free%20Reinforcement%20Learning%20in%20Display%20Advertising.pdf) <br />
 * [Real-Time Bidding with Multi-Agent Reinforcement Learning in Display Advertising](https://github.com/wzhe06/Reco-papers/blob/master/Bidding%20Strategy/Real-Time%20Bidding%20with%20Multi-Agent%20Reinforcement%20Learning%20in%20Display%20Advertising.pdf) <br />
 * [Real-Time Bidding by Reinforcement Learning in Display Advertising](https://github.com/wzhe06/Reco-papers/blob/master/Bidding%20Strategy/Real-Time%20Bidding%20by%20Reinforcement%20Learning%20in%20Display%20Advertising.pdf) <br />
 * [Combining Powers of Two Predictors in Optimizing Real-Time Bidding Strategy under Constrained Budget](https://github.com/wzhe06/Reco-papers/blob/master/Bidding%20Strategy/Combining%20Powers%20of%20Two%20Predictors%20in%20Optimizing%20Real-Time%20Bidding%20Strategy%20under%20Constrained%20Budget.pdf) <br />
-国立台湾大学的文章，介绍一种基于流量选择的计算广告竞价方法，有别于传统的CTR CPC的方法，我在实践中尝试过该方法，非常有效
+* [Bid-aware Gradient Descent for Unbiased Learning with Censored Data in Display Advertising](https://github.com/wzhe06/Reco-papers/blob/master/Bidding%20Strategy/Bid-aware%20Gradient%20Descent%20for%20Unbiased%20Learning%20with%20Censored%20Data%20in%20Display%20Advertising.pdf) <br />
 * [Optimized Cost per Click in Taobao Display Advertising](https://github.com/wzhe06/Reco-papers/blob/master/Bidding%20Strategy/Optimized%20Cost%20per%20Click%20in%20Taobao%20Display%20Advertising.pdf) <br />
-淘宝搜索广告中 OCPC 模式的出价策略<br />
 * [Real-Time Bidding Algorithms for Performance-Based Display Ad Allocation](https://github.com/wzhe06/Reco-papers/blob/master/Bidding%20Strategy/Real-Time%20Bidding%20Algorithms%20for%20Performance-Based%20Display%20Ad%20Allocation.pdf) <br />
-微软的一篇基于PID反馈控制的与效果相关的竞价算法
 * [Deep Reinforcement Learning for Sponsored Search Real-time Bidding](https://github.com/wzhe06/Reco-papers/blob/master/Bidding%20Strategy/Deep%20Reinforcement%20Learning%20for%20Sponsored%20Search%20Real-time%20Bidding.pdf) <br />
-阿里妈妈搜索广告团队的论文，通过 Reinforcement Learning 探索实时出价问题<br />
 
 ### Computational Advertising Architect
 广告系统的架构问题
 * [[TensorFlow Whitepaper]TensorFlow- Large-Scale Machine Learning on Heterogeneous Distributed Systems](https://github.com/wzhe06/Reco-papers/blob/master/Computational%20Advertising%20Architect/%5BTensorFlow%20Whitepaper%5DTensorFlow-%20Large-Scale%20Machine%20Learning%20on%20Heterogeneous%20Distributed%20Systems.pdf) <br />
 * [大数据下的广告排序技术及实践](https://github.com/wzhe06/Reco-papers/blob/master/Computational%20Advertising%20Architect/%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%B8%8B%E7%9A%84%E5%B9%BF%E5%91%8A%E6%8E%92%E5%BA%8F%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%AE%9E%E8%B7%B5.pdf) <br />
-阿里妈妈的一篇广告排序问题的ppt，模型、训练、评估都有涉及，很有工程价值
 * [美团机器学习 吃喝玩乐中的算法问题](https://github.com/wzhe06/Reco-papers/blob/master/Computational%20Advertising%20Architect/%E7%BE%8E%E5%9B%A2%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%20%E5%90%83%E5%96%9D%E7%8E%A9%E4%B9%90%E4%B8%AD%E7%9A%84%E7%AE%97%E6%B3%95%E9%97%AE%E9%A2%98.pdf) <br />
-美团王栋博士的一篇关于美团机器学习相关问题的介绍，介绍的比较全但比较粗浅，可以借此了解美团的一些机器学习问题
 * [[Parameter Server]Scaling Distributed Machine Learning with the Parameter Server](https://github.com/wzhe06/Reco-papers/blob/master/Computational%20Advertising%20Architect/%5BParameter%20Server%5DScaling%20Distributed%20Machine%20Learning%20with%20the%20Parameter%20Server.pdf) <br />
 * [Display Advertising with Real-Time Bidding (RTB) and Behavioural Targeting](https://github.com/wzhe06/Reco-papers/blob/master/Computational%20Advertising%20Architect/Display%20Advertising%20with%20Real-Time%20Bidding%20%28RTB%29%20and%20Behavioural%20Targeting.pdf) <br />
-张伟楠博士的RTB过程所有相关算法的书，全而精，非常棒
 * [A Comparison of Distributed Machine Learning Platforms](https://github.com/wzhe06/Reco-papers/blob/master/Computational%20Advertising%20Architect/A%20Comparison%20of%20Distributed%20Machine%20Learning%20Platforms.pdf) <br />
 * [Efficient Query Evaluation using a Two-Level Retrieval Process](https://github.com/wzhe06/Reco-papers/blob/master/Computational%20Advertising%20Architect/Efficient%20Query%20Evaluation%20using%20a%20Two-Level%20Retrieval%20Process.pdf) <br />
-搜索广告中经典的搜索算法 Wand(Weak AND)
 * [[TensorFlow Whitepaper]TensorFlow- A System for Large-Scale Machine Learning](https://github.com/wzhe06/Reco-papers/blob/master/Computational%20Advertising%20Architect/%5BTensorFlow%20Whitepaper%5DTensorFlow-%20A%20System%20for%20Large-Scale%20Machine%20Learning.pdf) <br />
 * [[Parameter Server]Parameter Server for Distributed Machine Learning](https://github.com/wzhe06/Reco-papers/blob/master/Computational%20Advertising%20Architect/%5BParameter%20Server%5DParameter%20Server%20for%20Distributed%20Machine%20Learning.pdf) <br />
 * [Overlapping Experiment Infrastructure More, Better, Faster Experimentation](https://github.com/wzhe06/Reco-papers/blob/master/Computational%20Advertising%20Architect/Overlapping%20Experiment%20Infrastructure%20More%2C%20Better%2C%20Faster%20Experimentation.pdf) <br />
-Google 一篇关于 A/B 测试框架的论文，涉及到如何切分流量以同时进行多个 A/B 测试，工程性很强
 
 ### Machine Learning Tutorial
 机器学习方面一些非常实用的学习资料
@@ -167,12 +123,27 @@ Google 一篇关于 A/B 测试框架的论文，涉及到如何切分流量以�
 * [贝叶斯统计学(PPT)](https://github.com/wzhe06/Reco-papers/blob/master/Machine%20Learning%20Tutorial/%E8%B4%9D%E5%8F%B6%E6%96%AF%E7%BB%9F%E8%AE%A1%E5%AD%A6%28PPT%29.pdf) <br />
 * [关联规则基本算法及其应用](https://github.com/wzhe06/Reco-papers/blob/master/Machine%20Learning%20Tutorial/%E5%85%B3%E8%81%94%E8%A7%84%E5%88%99%E5%9F%BA%E6%9C%AC%E7%AE%97%E6%B3%95%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8.doc) <br />
 
-
 ### Transfer Learning
 迁移学习相关文章，计算广告中经常遇到新广告冷启动的问题，利用迁移学习能较好解决该问题
+* [[Multi-Task]An Overview of Multi-Task Learning in Deep Neural Networks](https://github.com/wzhe06/Reco-papers/blob/master/Transfer%20Learning/%5BMulti-Task%5DAn%20Overview%20of%20Multi-Task%20Learning%20in%20Deep%20Neural%20Networks.pdf) <br />
 * [Scalable Hands-Free Transfer Learning for Online Advertising](https://github.com/wzhe06/Reco-papers/blob/master/Transfer%20Learning/Scalable%20Hands-Free%20Transfer%20Learning%20for%20Online%20Advertising.pdf) <br />
 * [A Survey on Transfer Learning](https://github.com/wzhe06/Reco-papers/blob/master/Transfer%20Learning/A%20Survey%20on%20Transfer%20Learning.pdf) <br />
 
+### Deep Learning CTR Prediction
+* [[DCN] Deep & Cross Network for Ad Click Predictions (Stanford 2017)](https://github.com/wzhe06/Reco-papers/blob/master/Deep%20Learning%20CTR%20Prediction/%5BDCN%5D%20Deep%20%26%20Cross%20Network%20for%20Ad%20Click%20Predictions%20%28Stanford%202017%29.pdf) <br />
+* [[Deep Crossing] Deep Crossing - Web-Scale Modeling without Manually Crafted Combinatorial Features (Microsoft 2016)](https://github.com/wzhe06/Reco-papers/blob/master/Deep%20Learning%20CTR%20Prediction/%5BDeep%20Crossing%5D%20Deep%20Crossing%20-%20Web-Scale%20Modeling%20without%20Manually%20Crafted%20Combinatorial%20Features%20%28Microsoft%202016%29.pdf) <br />
+* [[PNN] Product-based Neural Networks for User Response Prediction (SJTU 2016)](https://github.com/wzhe06/Reco-papers/blob/master/Deep%20Learning%20CTR%20Prediction/%5BPNN%5D%20Product-based%20Neural%20Networks%20for%20User%20Response%20Prediction%20%28SJTU%202016%29.pdf) <br />
+* [[DIN] Deep Interest Network for Click-Through Rate Prediction (Alibaba 2018)](https://github.com/wzhe06/Reco-papers/blob/master/Deep%20Learning%20CTR%20Prediction/%5BDIN%5D%20Deep%20Interest%20Network%20for%20Click-Through%20Rate%20Prediction%20%28Alibaba%202018%29.pdf) <br />
+* [[ESMM] Entire Space Multi-Task Model - An Effective Approach for Estimating Post-Click Conversion Rate (Alibaba 2018)](https://github.com/wzhe06/Reco-papers/blob/master/Deep%20Learning%20CTR%20Prediction/%5BESMM%5D%20Entire%20Space%20Multi-Task%20Model%20-%20An%20Effective%20Approach%20for%20Estimating%20Post-Click%20Conversion%20Rate%20%28Alibaba%202018%29.pdf) <br />
+* [[Wide & Deep] Wide & Deep Learning for Recommender Systems (Google 2016)](https://github.com/wzhe06/Reco-papers/blob/master/Deep%20Learning%20CTR%20Prediction/%5BWide%20%26%20Deep%5D%20Wide%20%26%20Deep%20Learning%20for%20Recommender%20Systems%20%28Google%202016%29.pdf) <br />
+* [[xDeepFM] xDeepFM - Combining Explicit and Implicit Feature Interactions for Recommender Systems (USTC 2018)](https://github.com/wzhe06/Reco-papers/blob/master/Deep%20Learning%20CTR%20Prediction/%5BxDeepFM%5D%20xDeepFM%20-%20Combining%20Explicit%20and%20Implicit%20Feature%20Interactions%20for%20Recommender%20Systems%20%28USTC%202018%29.pdf) <br />
+* [[Image CTR] Image Matters - Visually modeling user behaviors using Advanced Model Server (Alibaba 2018)](https://github.com/wzhe06/Reco-papers/blob/master/Deep%20Learning%20CTR%20Prediction/%5BImage%20CTR%5D%20Image%20Matters%20-%20Visually%20modeling%20user%20behaviors%20using%20Advanced%20Model%20Server%20%28Alibaba%202018%29.pdf) <br />
+* [[AFM] Attentional Factorization Machines - Learning the Weight of Feature Interactions via Attention Networks (ZJU 2017)](https://github.com/wzhe06/Reco-papers/blob/master/Deep%20Learning%20CTR%20Prediction/%5BAFM%5D%20Attentional%20Factorization%20Machines%20-%20Learning%20the%20Weight%20of%20Feature%20Interactions%20via%20Attention%20Networks%20%28ZJU%202017%29.pdf) <br />
+* [[DIEN] Deep Interest Evolution Network for Click-Through Rate Prediction (Alibaba 2019)](https://github.com/wzhe06/Reco-papers/blob/master/Deep%20Learning%20CTR%20Prediction/%5BDIEN%5D%20Deep%20Interest%20Evolution%20Network%20for%20Click-Through%20Rate%20Prediction%20%28Alibaba%202019%29.pdf) <br />
+* [[DSSM] Learning Deep Structured Semantic Models for Web Search using Clickthrough Data (UIUC 2013)](https://github.com/wzhe06/Reco-papers/blob/master/Deep%20Learning%20CTR%20Prediction/%5BDSSM%5D%20Learning%20Deep%20Structured%20Semantic%20Models%20for%20Web%20Search%20using%20Clickthrough%20Data%20%28UIUC%202013%29.pdf) <br />
+* [[FNN] Deep Learning over Multi-field Categorical Data (UCL 2016)](https://github.com/wzhe06/Reco-papers/blob/master/Deep%20Learning%20CTR%20Prediction/%5BFNN%5D%20Deep%20Learning%20over%20Multi-field%20Categorical%20Data%20%28UCL%202016%29.pdf) <br />
+* [[DeepFM] A Factorization-Machine based Neural Network for CTR Prediction (HIT-Huawei 2017)](https://github.com/wzhe06/Reco-papers/blob/master/Deep%20Learning%20CTR%20Prediction/%5BDeepFM%5D%20A%20Factorization-Machine%20based%20Neural%20Network%20for%20CTR%20Prediction%20%28HIT-Huawei%202017%29.pdf) <br />
+* [[NFM] Neural Factorization Machines for Sparse Predictive Analytics (NUS 2017)](https://github.com/wzhe06/Reco-papers/blob/master/Deep%20Learning%20CTR%20Prediction/%5BNFM%5D%20Neural%20Factorization%20Machines%20for%20Sparse%20Predictive%20Analytics%20%28NUS%202017%29.pdf) <br />
 
 ### Exploration and Exploitation
 探索和利用，计算广告中非常经典，也是容易被大家忽视的问题，其实所有的广告系统都面临如何解决新广告主冷启动，以及在效果不好的情况下如何探索新的优质流量的问题，希望该目录下的几篇文章能够帮助到你
@@ -198,10 +169,7 @@ Google 一篇关于 A/B 测试框架的论文，涉及到如何切分流量以�
 * [对抗搜索、多臂老虎机问题、UCB算法](https://github.com/wzhe06/Reco-papers/blob/master/Exploration%20and%20Exploitation/%E5%AF%B9%E6%8A%97%E6%90%9C%E7%B4%A2%E3%80%81%E5%A4%9A%E8%87%82%E8%80%81%E8%99%8E%E6%9C%BA%E9%97%AE%E9%A2%98%E3%80%81UCB%E7%AE%97%E6%B3%95.ppt) <br />
 * [Using Confidence Bounds for Exploitation-Exploration Trade-offs](https://github.com/wzhe06/Reco-papers/blob/master/Exploration%20and%20Exploitation/Using%20Confidence%20Bounds%20for%20Exploitation-Exploration%20Trade-offs.pdf) <br />
 
-
 ### Allocation
 广告流量的分配问题
 * [An Efficient Algorithm for Allocation of Guaranteed Display Advertising](https://github.com/wzhe06/Reco-papers/blob/master/Allocation/An%20Efficient%20Algorithm%20for%20Allocation%20of%20Guaranteed%20Display%20Advertising.pdf) <br />
-同样是雅虎的流量分配文章，跟上一篇文章同时发布，介绍SHALE流量分配算法
 * [Ad Serving Using a Compact Allocation Plan](https://github.com/wzhe06/Reco-papers/blob/master/Allocation/Ad%20Serving%20Using%20a%20Compact%20Allocation%20Plan.pdf) <br />
-雅虎的一篇比较经典的流量分配的文章，文中的HWM和DUAL算法都比较实用
