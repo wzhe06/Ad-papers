@@ -55,9 +55,17 @@ FM因子分解机模型的相关paper，在计算广告领域非常实用的模�
 * [fastFM- A Library for Factorization Machines](https://github.com/wzhe06/Ad-papers/blob/master/Factorization%20Machines/fastFM-%20A%20Library%20for%20Factorization%20Machines.pdf) <br />
 
 ### Embedding
-* [Efficient Estimation of Word Representations in Vector Space](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/Efficient%20Estimation%20of%20Word%20Representations%20in%20Vector%20Space.pdf) <br />
-* [Item2Vec- Neural Item Embedding for Collaborative Filtering](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/Item2Vec-%20Neural%20Item%20Embedding%20for%20Collaborative%20Filtering.pdf) <br />
-* [Distributed Representations of Words and Phrases and their Compositionality](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/Distributed%20Representations%20of%20Words%20and%20Phrases%20and%20their%20Compositionality.pdf) <br />
+* [[Negative Sampling] Word2vec Explained Negative-Sampling Word-Embedding Method (2014)](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/%5BNegative%20Sampling%5D%20Word2vec%20Explained%20Negative-Sampling%20Word-Embedding%20Method%20%282014%29.pdf) <br />
+* [[SDNE] Structural Deep Network Embedding (THU 2016)](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/%5BSDNE%5D%20Structural%20Deep%20Network%20Embedding%20%28THU%202016%29.pdf) <br />
+* [[Item2Vec] Item2Vec-Neural Item Embedding for Collaborative Filtering (Microsoft 2016)](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/%5BItem2Vec%5D%20Item2Vec-Neural%20Item%20Embedding%20for%20Collaborative%20Filtering%20%28Microsoft%202016%29.pdf) <br />
+* [[Word2Vec] Distributed Representations of Words and Phrases and their Compositionality (Google 2013)](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/%5BWord2Vec%5D%20Distributed%20Representations%20of%20Words%20and%20Phrases%20and%20their%20Compositionality%20%28Google%202013%29.pdf) <br />
+* [[Word2Vec] Word2vec Parameter Learning Explained (UMich 2016)](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/%5BWord2Vec%5D%20Word2vec%20Parameter%20Learning%20Explained%20%28UMich%202016%29.pdf) <br />
+* [[Node2vec] Node2vec - Scalable Feature Learning for Networks (Stanford 2016)](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/%5BNode2vec%5D%20Node2vec%20-%20Scalable%20Feature%20Learning%20for%20Networks%20%28Stanford%202016%29.pdf) <br />
+* [[Graph Embedding] DeepWalk- Online Learning of Social Representations (SBU 2014)](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/%5BGraph%20Embedding%5D%20DeepWalk-%20Online%20Learning%20of%20Social%20Representations%20%28SBU%202014%29.pdf) <br />
+* [[Airbnb Embedding] Real-time Personalization using Embeddings for Search Ranking at Airbnb (Airbnb 2018)](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/%5BAirbnb%20Embedding%5D%20Real-time%20Personalization%20using%20Embeddings%20for%20Search%20Ranking%20at%20Airbnb%20%28Airbnb%202018%29.pdf) <br />
+* [[Alibaba Embedding] Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba (Alibaba 2018)](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/%5BAlibaba%20Embedding%5D%20Billion-scale%20Commodity%20Embedding%20for%20E-commerce%20Recommendation%20in%20Alibaba%20%28Alibaba%202018%29.pdf) <br />
+* [[Word2Vec] Efficient Estimation of Word Representations in Vector Space (Google 2013)](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/%5BWord2Vec%5D%20Efficient%20Estimation%20of%20Word%20Representations%20in%20Vector%20Space%20%28Google%202013%29.pdf) <br />
+* [[LINE] LINE - Large-scale Information Network Embedding (MSRA 2015)](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/%5BLINE%5D%20LINE%20-%20Large-scale%20Information%20Network%20Embedding%20%28MSRA%202015%29.pdf) <br />
 
 ### Budget Control
 广告系统中Pacing，预算控制，以及怎么把预算控制与其他模块相结合的问题
