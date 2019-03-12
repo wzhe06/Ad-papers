@@ -6,9 +6,9 @@
 * 知乎私信: [王喆的知乎](https://www.zhihu.com/people/wang-zhe-58)
 
 **会不断加入一些重要的计算广告相关论文和资料，并去掉一些过时的或者跟计算广告不太相关的论文**
-* `New!` [Image Matters- Visually modeling user behaviors using Advanced Model Server.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/Image%20Matters-%20Visually%20modeling%20user%20behaviors%20using%20Advanced%20Model%20Server.pdf) <br />
-阿里提出引入商品图像特征的（Deep Image CTR Model）CTR预估模型，并介绍其分布式机器学习框架AMS
-* `New!` [Deep Interest Evolution Network for Click-Through Rate Prediction.pdf](https://github.com/wzhe06/Ad-papers/blob/master/CTR%20Prediction/%5BDIEN%5DDeep%20Interest%20Evolution%20Network%20for%20Click-Through%20Rate%20Prediction.pdf) <br />
+* `New!` [[Airbnb Embedding] Real-time Personalization using Embeddings for Search Ranking at Airbnb (Airbnb 2018)](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/%5BAirbnb%20Embedding%5D%20Real-time%20Personalization%20using%20Embeddings%20for%20Search%20Ranking%20at%20Airbnb%20%28Airbnb%202018%29.pdf) <br />
+2018 KDD best paper, Airbnb基于embeddding构建的实时搜索推荐系统
+* `New!` [[DIEN] Deep Interest Evolution Network for Click-Through Rate Prediction (Alibaba 2019)](https://github.com/wzhe06/Ad-papers/blob/master/Deep%20Learning%20CTR%20Prediction/%5BDIEN%5D%20Deep%20Interest%20Evolution%20Network%20for%20Click-Through%20Rate%20Prediction%20%28Alibaba%202019%29.pdf) <br />
 阿里提出的深度兴趣网络（Deep Interest Network）最新改进DIEN
 
 **其他相关资源**
