@@ -13,7 +13,7 @@
 
 **其他相关资源**
 * [张伟楠的RTB Papers列表](https://github.com/wnzhang/rtb-papers)<br />
-* [基于Spark MLlib的CTR预估模型(LR, FM, RF, GBDT, NN, PNN)](https://github.com/wzhe06/CTRmodel) <br />
+* [基于Spark MLlib的CTR预估模型(LR, FM, RF, GBDT, NN, PNN)](https://github.com/wzhe06/SparkCTR) <br />
 * [推荐系统相关论文和资源列表](https://github.com/wzhe06/Reco-papers) <br />
 * [Honglei Zhang的推荐系统论文列表](https://github.com/hongleizhang/RSPapers)
 
